@@ -1,4 +1,4 @@
-package agg
+package fetch
 
 import (
 	"errors"
