@@ -1,5 +1,5 @@
 go-rss
-------
+======
 
 Simple structs for handling RSS xml data
 
