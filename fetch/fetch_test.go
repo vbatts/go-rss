@@ -6,17 +6,37 @@ import (
 	"testing"
   "io"
   "os"
+  "time"
 )
 
 func init() {
 	go func() {
 		http.HandleFunc("/ChangeLog.rss", func(w http.ResponseWriter, r *http.Request) {
-      file, _ := os.Open("../ChangeLog.rss")
+      file, err := os.Open("../ChangeLog.rss")
+      if err != nil {
+        http.NotFound(w,r)
+      }
       defer file.Close()
+
+      stat,err := file.Stat()
+      if err == nil {
+        w.Header().Set("Last-Modified", stat.ModTime().Format(time.RFC1123))
+      }
       io.Copy(w, file)
 		})
 		log.Fatal(http.ListenAndServe(":8080", nil))
 	}()
+}
+
+func TestTime(t *testing.T) {
+  now := time.Now()
+  b, err := RemoteIsNewer("http://localhost:8080/ChangeLog.rss", now)
+  if err != nil {
+    t.Fatalf("Failed to get remote time, %s", err)
+  }
+  if b {
+    t.Errorf("this remote should not be newer than now!", b)
+  }
 }
 
 func TestFetch(t *testing.T) {
