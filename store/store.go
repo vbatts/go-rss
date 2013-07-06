@@ -4,13 +4,16 @@ import (
 	"code.google.com/p/go-sqlite/go1/sqlite3"
 	"github.com/vbatts/go-rss"
 	"os"
+	"sort"
+	"time"
 )
 
 var (
 	Schema = []string{
-		"CREATE TABLE feed_urls(url TEXT)",
+		"CREATE TABLE metadata(key TEXT, value TEXT)",
+		"CREATE TABLE feed_urls(url TEXT, time INT)",
 		"CREATE TABLE feed_info(feed_id INT, title TEXT, lastBuildDate TEXT, description TEXT, link TEXT)",
-		"CREATE TABLE feed_items(feed_id INT, guid TEXT, pubDate TEXT, title TEXT, description TEXT)",
+		"CREATE TABLE feed_items(feed_id INT, guid TEXT, pubDate TEXT, title TEXT, description TEXT, link TEXT, author TEXT)",
 	}
 )
 
@@ -33,6 +36,13 @@ type FeedStore struct {
 	conn *sqlite3.Conn
 }
 
+// Return an rss.Rss structure, with Channel and Items, for the
+// provided urlId
+func (fs *FeedStore) GetRssForUrlId(urlId int64) (r rss.Rss, err error) {
+	// XXX
+	return
+}
+
 // Store an rss.Rss structure away, given it's the rss URL's urlId
 func (fs *FeedStore) StoreRssForUrlId(r rss.Rss, urlId int64) error {
 	args := sqlite3.NamedArgs{
@@ -49,7 +59,59 @@ func (fs *FeedStore) StoreRssForUrlId(r rss.Rss, urlId int64) error {
 	if err != nil {
 		return err
 	}
+
+	old_guids := []string{}
+	for s, err := fs.conn.Query("SELECT guid FROM feed_items WHERE feed_id = ?", urlId); err == nil; err = s.Next() {
+		var guid string
+		s.Scan(&guid)
+		if len(guid) > 0 {
+			old_guids = append(old_guids, guid)
+		}
+	}
+
+	new_guids := []string{}
+	for _, item := range r.Channel.Items {
+		if fs.itemGuidExistsForUriId(item.Guid, urlId) {
+			fs.conn.Exec("DELETE FROM feed_items WHERE guid = ? AND feed_id = ?", item.Guid, urlId)
+		}
+		if len(item.Guid) > 0 {
+			new_guids = append(new_guids, item.Guid)
+		}
+		args = sqlite3.NamedArgs{
+			"$feed_id":     urlId,
+			"$guid":        item.Guid,
+			"$title":       item.Title,
+			"$pubDate":     item.PubDate,
+			"$description": item.Description,
+			"$author":      item.Author,
+			"$link":        item.Link,
+		}
+		err := fs.conn.Exec("INSERT INTO feed_items VALUES($feed_id, $guid, $pubDate, $title, $description, $link, $author)", args)
+		if err != nil {
+			return err
+		}
+	}
+
+	// reconcile the items for this RSS, so as to not let it run on forever
+	sort.Strings(new_guids)
+	sort.Strings(old_guids)
+	for _, guid := range old_guids {
+		i := sort.SearchStrings(new_guids, guid)
+		if i == len(old_guids) {
+			fs.conn.Exec("DELETE FROM feed_items WHERE guid = ? AND feed_id = ?", guid, urlId)
+		}
+	}
+
 	return nil
+}
+
+func (fs *FeedStore) itemGuidExistsForUriId(guid string, urlId int64) bool {
+	var count int64
+	query := "SELECT count(1) FROM feed_items WHERE feed_id = ?"
+	for s, err := fs.conn.Query(query, urlId); err == nil; err = s.Next() {
+		s.Scan(&count)
+	}
+	return count > 0
 }
 
 func (fs *FeedStore) infoExistsForUriId(urlId int64) bool {
@@ -71,9 +133,17 @@ func (fs *FeedStore) StoreRssForUrl(r rss.Rss, urlStr string) error {
 	return fs.StoreRssForUrlId(r, id)
 }
 
+func (fs *FeedStore) ItemsForUrl(urlStr string) (items []rss.Item, err error) {
+	// XXX
+	return
+}
+
 // Insert urlStr URL into the FeedStore
 func (fs *FeedStore) AddUrl(urlStr string) error {
-	return fs.conn.Exec("INSERT INTO feed_urls VALUES(?)", urlStr)
+	if fs.UrlId(urlStr) == -1 {
+		return fs.conn.Exec("INSERT INTO feed_urls (url, time) VALUES(?, ?)", urlStr, time.Now().Unix())
+	}
+	return nil
 }
 
 // Get the ID for a given URL

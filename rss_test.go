@@ -32,7 +32,7 @@ func TestThingsOnSboChangelog(t *testing.T) {
 	fmt.Println(c_time)
 
 	for _, item := range rss.Channel.Items {
-    i_time, err := item.PubDateTime()
+		i_time, err := item.PubDateTime()
 		if err != nil {
 			t.Errorf("Item PubDateTime Parse failed with: %s", err)
 		}
@@ -70,7 +70,7 @@ func TestThingsOnRailsPortal(t *testing.T) {
 	fmt.Println(c_time)
 
 	for _, item := range rss.Channel.Items {
-    i_time, err := item.PubDateTime()
+		i_time, err := item.PubDateTime()
 		if err != nil {
 			t.Errorf("Item PubDateTime Parse failed with: %s", err)
 		}
