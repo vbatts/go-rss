@@ -1,0 +1,2288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Slackware Agg Feed</title>
+    <link>http://slackagg.hashbangbash.com/articles</link>
+    <description>Slackware Feeds Aggregated</description>
+    <item>
+      <title>Alien's Slackware packages: Fri,  5 Jul 2013 10:42:38 GMT</title>
+      <pubDate>Fri, 05 Jul 2013 10:42:38 -0000</pubDate>
+      <author/>
+      <link>http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt</link>
+      <description>Alien's Slackware packages: http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt (Fri, 05 Jul 2013 10:42:38 -0000)</description>
+      <guid isPermaLink="true">http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt#1373020958#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Tue, 02 Jul 2013 21:09:49 GMT</title>
+      <pubDate>Tue, 02 Jul 2013 21:09:49 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20130702T210949Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20130702T210949Z (Tue, 02 Jul 2013 21:09:49 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20130702T210949Z#1372799389#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien Pastures: KDE 4.10.5 – final increment in the 4.10 series</title>
+      <pubDate>Tue, 02 Jul 2013 13:13:09 -0000</pubDate>
+      <author>alienbob</author>
+      <link>http://alien.slackbook.org/blog/kde-4-10-5-final-increment-in-the-4-10-series/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kde-4-10-5-final-increment-in-the-4-10-series</link>
+      <description>Alien Pastures: http://alien.slackbook.org/blog/kde-4-10-5-final-increment-in-the-4-10-series/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kde-4-10-5-final-increment-in-the-4-10-series (Tue, 02 Jul 2013 13:13:09 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/blog/kde-4-10-5-final-increment-in-the-4-10-series/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kde-4-10-5-final-increment-in-the-4-10-series#1372770789#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's unofficial KDE Slackware packages: Tue,  2 Jul 2013 00:46:28 GMT</title>
+      <pubDate>Tue, 02 Jul 2013 00:46:28 -0000</pubDate>
+      <author/>
+      <link>http://alien.slackbook.org/ktown/ChangeLog.txt</link>
+      <description>Alien's unofficial KDE Slackware packages: http://alien.slackbook.org/ktown/ChangeLog.txt (Tue, 02 Jul 2013 00:46:28 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/ktown/ChangeLog.txt#1372725988#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's Slackware packages: Mon,  1 Jul 2013 21:36:28 GMT</title>
+      <pubDate>Mon, 01 Jul 2013 21:36:28 -0000</pubDate>
+      <author/>
+      <link>http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt</link>
+      <description>Alien's Slackware packages: http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt (Mon, 01 Jul 2013 21:36:28 -0000)</description>
+      <guid isPermaLink="true">http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt#1372714588#slackagg</guid>
+    </item>
+    <item>
+      <title>blog.hashbangbash.com: Ugh, CNAME failure. On my part.</title>
+      <pubDate>Sun, 30 Jun 2013 22:18:31 -0000</pubDate>
+      <author>vbatts</author>
+      <link>http://blog.hashbangbash.com/2013/06/ugh-cname-failure-on-my-part/</link>
+      <description>blog.hashbangbash.com: http://blog.hashbangbash.com/2013/06/ugh-cname-failure-on-my-part/ (Sun, 30 Jun 2013 22:18:31 -0000)</description>
+      <guid isPermaLink="true">http://blog.hashbangbash.com/2013/06/ugh-cname-failure-on-my-part/#1372630711#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's Slackware packages: Sun, 30 Jun 2013 10:15:38 GMT</title>
+      <pubDate>Sun, 30 Jun 2013 10:15:38 -0000</pubDate>
+      <author/>
+      <link>http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt</link>
+      <description>Alien's Slackware packages: http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt (Sun, 30 Jun 2013 10:15:38 -0000)</description>
+      <guid isPermaLink="true">http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt#1372587338#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Sat Jun 29 22:08:25 UTC 2013 (* Security fix *)</title>
+      <pubDate>Sat, 29 Jun 2013 22:08:25 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1372543705</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1372543705 (Sat, 29 Jun 2013 22:08:25 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1372543705#1372543705#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Sat Jun 29 22:08:25 UTC 2013 (* Security fix *)</title>
+      <pubDate>Sat, 29 Jun 2013 22:08:25 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1372543705</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1372543705 (Sat, 29 Jun 2013 22:08:25 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1372543705#1372543705#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Sat, 29 Jun 2013 19:29:45 GMT</title>
+      <pubDate>Sat, 29 Jun 2013 19:29:45 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20130629T192945Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20130629T192945Z (Sat, 29 Jun 2013 19:29:45 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20130629T192945Z#1372534185#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's Slackware packages: Fri, 28 Jun 2013 13:07:39 GMT</title>
+      <pubDate>Fri, 28 Jun 2013 13:07:39 -0000</pubDate>
+      <author/>
+      <link>http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt</link>
+      <description>Alien's Slackware packages: http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt (Fri, 28 Jun 2013 13:07:39 -0000)</description>
+      <guid isPermaLink="true">http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt#1372424859#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Thu Jun 27 23:56:34 UTC 2013 (* Security fix *)</title>
+      <pubDate>Thu, 27 Jun 2013 23:56:34 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1372377394</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1372377394 (Thu, 27 Jun 2013 23:56:34 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1372377394#1372377394#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Thu Jun 27 23:56:34 UTC 2013 (* Security fix *)</title>
+      <pubDate>Thu, 27 Jun 2013 23:56:34 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1372377394</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1372377394 (Thu, 27 Jun 2013 23:56:34 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1372377394#1372377394#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Sun Jun 23 21:00:00 UTC 2013 (* Security fix *)</title>
+      <pubDate>Sun, 23 Jun 2013 21:00:00 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1372021200</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1372021200 (Sun, 23 Jun 2013 21:00:00 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1372021200#1372021200#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Sun Jun 23 21:00:00 UTC 2013 (* Security fix *)</title>
+      <pubDate>Sun, 23 Jun 2013 21:00:00 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1372021200</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1372021200 (Sun, 23 Jun 2013 21:00:00 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1372021200#1372021200#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Sun Jun 23 01:08:14 UTC 2013</title>
+      <pubDate>Sun, 23 Jun 2013 01:08:14 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1371949694</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1371949694 (Sun, 23 Jun 2013 01:08:14 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1371949694#1371949694#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Sun Jun 23 01:08:14 UTC 2013</title>
+      <pubDate>Sun, 23 Jun 2013 01:08:14 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1371949694</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1371949694 (Sun, 23 Jun 2013 01:08:14 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1371949694#1371949694#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Sun, 23 Jun 2013 00:45:58 GMT</title>
+      <pubDate>Sun, 23 Jun 2013 00:45:58 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20130623T004558Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20130623T004558Z (Sun, 23 Jun 2013 00:45:58 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20130623T004558Z#1371948358#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's Slackware packages: Fri, 21 Jun 2013 19:17:04 GMT</title>
+      <pubDate>Fri, 21 Jun 2013 19:17:04 -0000</pubDate>
+      <author/>
+      <link>http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt</link>
+      <description>Alien's Slackware packages: http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt (Fri, 21 Jun 2013 19:17:04 -0000)</description>
+      <guid isPermaLink="true">http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt#1371842224#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's Slackware packages: Thu, 20 Jun 2013 19:39:49 GMT</title>
+      <pubDate>Thu, 20 Jun 2013 19:39:49 -0000</pubDate>
+      <author/>
+      <link>http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt</link>
+      <description>Alien's Slackware packages: http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt (Thu, 20 Jun 2013 19:39:49 -0000)</description>
+      <guid isPermaLink="true">http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt#1371757189#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's Slackware packages: Wed, 19 Jun 2013 18:04:49 GMT</title>
+      <pubDate>Wed, 19 Jun 2013 18:04:49 -0000</pubDate>
+      <author/>
+      <link>http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt</link>
+      <description>Alien's Slackware packages: http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt (Wed, 19 Jun 2013 18:04:49 -0000)</description>
+      <guid isPermaLink="true">http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt#1371665089#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's Slackware packages: Sun, 16 Jun 2013 13:34:38 GMT</title>
+      <pubDate>Sun, 16 Jun 2013 13:34:38 -0000</pubDate>
+      <author/>
+      <link>http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt</link>
+      <description>Alien's Slackware packages: http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt (Sun, 16 Jun 2013 13:34:38 -0000)</description>
+      <guid isPermaLink="true">http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt#1371389678#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Sun, 16 Jun 2013 02:08:06 GMT</title>
+      <pubDate>Sun, 16 Jun 2013 02:08:06 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20130616T020806Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20130616T020806Z (Sun, 16 Jun 2013 02:08:06 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20130616T020806Z#1371348486#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien Pastures: Rainy weekend update</title>
+      <pubDate>Sat, 15 Jun 2013 11:03:37 -0000</pubDate>
+      <author>alienbob</author>
+      <link>http://alien.slackbook.org/blog/rainy-weekend-update/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rainy-weekend-update</link>
+      <description>Alien Pastures: http://alien.slackbook.org/blog/rainy-weekend-update/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rainy-weekend-update (Sat, 15 Jun 2013 11:03:37 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/blog/rainy-weekend-update/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rainy-weekend-update#1371294217#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's Slackware packages: Sat, 15 Jun 2013 09:19:28 GMT</title>
+      <pubDate>Sat, 15 Jun 2013 09:19:28 -0000</pubDate>
+      <author/>
+      <link>http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt</link>
+      <description>Alien's Slackware packages: http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt (Sat, 15 Jun 2013 09:19:28 -0000)</description>
+      <guid isPermaLink="true">http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt#1371287968#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's Slackware packages: Fri, 14 Jun 2013 21:59:14 GMT</title>
+      <pubDate>Fri, 14 Jun 2013 21:59:14 -0000</pubDate>
+      <author/>
+      <link>http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt</link>
+      <description>Alien's Slackware packages: http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt (Fri, 14 Jun 2013 21:59:14 -0000)</description>
+      <guid isPermaLink="true">http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt#1371247154#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's Slackware packages: Fri, 14 Jun 2013 09:54:07 GMT</title>
+      <pubDate>Fri, 14 Jun 2013 09:54:07 -0000</pubDate>
+      <author/>
+      <link>http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt</link>
+      <description>Alien's Slackware packages: http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt (Fri, 14 Jun 2013 09:54:07 -0000)</description>
+      <guid isPermaLink="true">http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt#1371203647#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's Slackware packages: Thu, 13 Jun 2013 15:06:48 GMT</title>
+      <pubDate>Thu, 13 Jun 2013 15:06:48 -0000</pubDate>
+      <author/>
+      <link>http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt</link>
+      <description>Alien's Slackware packages: http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt (Thu, 13 Jun 2013 15:06:48 -0000)</description>
+      <guid isPermaLink="true">http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt#1371136008#slackagg</guid>
+    </item>
+    <item>
+      <title>Robby Workman's Slackware Packages: Thu, 13 Jun 2013 04:01:27 GMT</title>
+      <pubDate>Thu, 13 Jun 2013 04:01:27 -0000</pubDate>
+      <author/>
+      <link>http://rlworkman.net/pkgs/14.0/ChangeLog.txt</link>
+      <description>Robby Workman's Slackware Packages: http://rlworkman.net/pkgs/14.0/ChangeLog.txt (Thu, 13 Jun 2013 04:01:27 -0000)</description>
+      <guid isPermaLink="true">http://rlworkman.net/pkgs/14.0/ChangeLog.txt#1371096087#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's Slackware packages: Wed, 12 Jun 2013 21:46:41 GMT</title>
+      <pubDate>Wed, 12 Jun 2013 21:46:41 -0000</pubDate>
+      <author/>
+      <link>http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt</link>
+      <description>Alien's Slackware packages: http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt (Wed, 12 Jun 2013 21:46:41 -0000)</description>
+      <guid isPermaLink="true">http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt#1371073601#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's Slackware packages: Tue, 11 Jun 2013 22:00:08 GMT</title>
+      <pubDate>Tue, 11 Jun 2013 22:00:08 -0000</pubDate>
+      <author/>
+      <link>http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt</link>
+      <description>Alien's Slackware packages: http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt (Tue, 11 Jun 2013 22:00:08 -0000)</description>
+      <guid isPermaLink="true">http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt#1370988008#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Tue Jun 11 21:36:35 UTC 2013</title>
+      <pubDate>Tue, 11 Jun 2013 21:36:35 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1370986595</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1370986595 (Tue, 11 Jun 2013 21:36:35 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1370986595#1370986595#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Tue Jun 11 21:36:35 UTC 2013</title>
+      <pubDate>Tue, 11 Jun 2013 21:36:35 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1370986595</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1370986595 (Tue, 11 Jun 2013 21:36:35 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1370986595#1370986595#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien Pastures: OpenJDK 7 Update 40 (yes, 40) courtesy of IcedTea 2.4.0</title>
+      <pubDate>Mon, 10 Jun 2013 22:32:44 -0000</pubDate>
+      <author>alienbob</author>
+      <link>http://alien.slackbook.org/blog/openjdk-7-update-40-yes-40-courtesy-of-icedtea-2-4-0/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=openjdk-7-update-40-yes-40-courtesy-of-icedtea-2-4-0</link>
+      <description>Alien Pastures: http://alien.slackbook.org/blog/openjdk-7-update-40-yes-40-courtesy-of-icedtea-2-4-0/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=openjdk-7-update-40-yes-40-courtesy-of-icedtea-2-4-0 (Mon, 10 Jun 2013 22:32:44 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/blog/openjdk-7-update-40-yes-40-courtesy-of-icedtea-2-4-0/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=openjdk-7-update-40-yes-40-courtesy-of-icedtea-2-4-0#1370903564#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Mon Jun 10 21:51:54 UTC 2013 (* Security fix *)</title>
+      <pubDate>Mon, 10 Jun 2013 21:51:54 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1370901114</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1370901114 (Mon, 10 Jun 2013 21:51:54 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1370901114#1370901114#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Mon Jun 10 21:51:54 UTC 2013 (* Security fix *)</title>
+      <pubDate>Mon, 10 Jun 2013 21:51:54 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1370901114</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1370901114 (Mon, 10 Jun 2013 21:51:54 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1370901114#1370901114#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's Slackware packages: Mon, 10 Jun 2013 20:08:24 GMT</title>
+      <pubDate>Mon, 10 Jun 2013 20:08:24 -0000</pubDate>
+      <author/>
+      <link>http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt</link>
+      <description>Alien's Slackware packages: http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt (Mon, 10 Jun 2013 20:08:24 -0000)</description>
+      <guid isPermaLink="true">http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt#1370894904#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's unofficial KDE Slackware packages: Sun,  9 Jun 2013 22:27:34 GMT</title>
+      <pubDate>Sun, 09 Jun 2013 22:27:34 -0000</pubDate>
+      <author/>
+      <link>http://alien.slackbook.org/ktown/ChangeLog.txt</link>
+      <description>Alien's unofficial KDE Slackware packages: http://alien.slackbook.org/ktown/ChangeLog.txt (Sun, 09 Jun 2013 22:27:34 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/ktown/ChangeLog.txt#1370816854#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Sun, 09 Jun 2013 17:04:13 GMT</title>
+      <pubDate>Sun, 09 Jun 2013 17:04:13 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20130609T170413Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20130609T170413Z (Sun, 09 Jun 2013 17:04:13 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20130609T170413Z#1370797453#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Thu Jun 06 18:36:44 UTC 2013</title>
+      <pubDate>Thu, 06 Jun 2013 18:36:44 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1370543804</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1370543804 (Thu, 06 Jun 2013 18:36:44 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1370543804#1370543804#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Thu Jun 06 18:36:44 UTC 2013</title>
+      <pubDate>Thu, 06 Jun 2013 18:36:44 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1370543804</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1370543804 (Thu, 06 Jun 2013 18:36:44 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1370543804#1370543804#slackagg</guid>
+    </item>
+    <item>
+      <title>Robby Workman's Slackware Packages: Thu,  6 Jun 2013 13:20:00 GMT</title>
+      <pubDate>Thu, 06 Jun 2013 13:20:00 -0000</pubDate>
+      <author/>
+      <link>http://rlworkman.net/pkgs/14.0/ChangeLog.txt</link>
+      <description>Robby Workman's Slackware Packages: http://rlworkman.net/pkgs/14.0/ChangeLog.txt (Thu, 06 Jun 2013 13:20:00 -0000)</description>
+      <guid isPermaLink="true">http://rlworkman.net/pkgs/14.0/ChangeLog.txt#1370524800#slackagg</guid>
+    </item>
+    <item>
+      <title>Robby Workman's Slackware Packages: Wed,  5 Jun 2013 16:24:48 GMT</title>
+      <pubDate>Wed, 05 Jun 2013 16:24:48 -0000</pubDate>
+      <author/>
+      <link>http://rlworkman.net/pkgs/14.0/ChangeLog.txt</link>
+      <description>Robby Workman's Slackware Packages: http://rlworkman.net/pkgs/14.0/ChangeLog.txt (Wed, 05 Jun 2013 16:24:48 -0000)</description>
+      <guid isPermaLink="true">http://rlworkman.net/pkgs/14.0/ChangeLog.txt#1370449488#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Wed, 05 Jun 2013 08:19:26 GMT</title>
+      <pubDate>Wed, 05 Jun 2013 08:19:26 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20130605T081926Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20130605T081926Z (Wed, 05 Jun 2013 08:19:26 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20130605T081926Z#1370420366#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Tue Jun 04 23:30:57 UTC 2013</title>
+      <pubDate>Tue, 04 Jun 2013 23:30:57 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1370388657</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1370388657 (Tue, 04 Jun 2013 23:30:57 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1370388657#1370388657#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Tue Jun 04 23:30:57 UTC 2013</title>
+      <pubDate>Tue, 04 Jun 2013 23:30:57 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1370388657</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1370388657 (Tue, 04 Jun 2013 23:30:57 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1370388657#1370388657#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien Pastures: KDE 4.10.4 – packages for Slackware 14</title>
+      <pubDate>Tue, 04 Jun 2013 22:09:17 -0000</pubDate>
+      <author>alienbob</author>
+      <link>http://alien.slackbook.org/blog/kde-4-10-4-packages-for-slackware-14/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kde-4-10-4-packages-for-slackware-14</link>
+      <description>Alien Pastures: http://alien.slackbook.org/blog/kde-4-10-4-packages-for-slackware-14/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kde-4-10-4-packages-for-slackware-14 (Tue, 04 Jun 2013 22:09:17 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/blog/kde-4-10-4-packages-for-slackware-14/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kde-4-10-4-packages-for-slackware-14#1370383757#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's unofficial KDE Slackware packages: Tue,  4 Jun 2013 18:54:12 GMT</title>
+      <pubDate>Tue, 04 Jun 2013 18:54:12 -0000</pubDate>
+      <author/>
+      <link>http://alien.slackbook.org/ktown/ChangeLog.txt</link>
+      <description>Alien's unofficial KDE Slackware packages: http://alien.slackbook.org/ktown/ChangeLog.txt (Tue, 04 Jun 2013 18:54:12 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/ktown/ChangeLog.txt#1370372052#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Tue, 04 Jun 2013 05:14:53 GMT</title>
+      <pubDate>Tue, 04 Jun 2013 05:14:53 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20130604T051453Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20130604T051453Z (Tue, 04 Jun 2013 05:14:53 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20130604T051453Z#1370322893#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's Slackware packages: Mon,  3 Jun 2013 22:51:04 GMT</title>
+      <pubDate>Mon, 03 Jun 2013 22:51:04 -0000</pubDate>
+      <author/>
+      <link>http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt</link>
+      <description>Alien's Slackware packages: http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt (Mon, 03 Jun 2013 22:51:04 -0000)</description>
+      <guid isPermaLink="true">http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt#1370299864#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Mon Jun 03 22:10:16 UTC 2013</title>
+      <pubDate>Mon, 03 Jun 2013 22:10:16 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1370297416</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1370297416 (Mon, 03 Jun 2013 22:10:16 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1370297416#1370297416#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Mon Jun 03 22:10:16 UTC 2013</title>
+      <pubDate>Mon, 03 Jun 2013 22:10:16 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1370297416</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1370297416 (Mon, 03 Jun 2013 22:10:16 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1370297416#1370297416#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Wed May 29 08:38:37 UTC 2013</title>
+      <pubDate>Wed, 29 May 2013 08:38:37 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1369816717</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1369816717 (Wed, 29 May 2013 08:38:37 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1369816717#1369816717#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Wed May 29 08:38:37 UTC 2013</title>
+      <pubDate>Wed, 29 May 2013 08:38:37 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1369816717</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1369816717 (Wed, 29 May 2013 08:38:37 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1369816717#1369816717#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Fri May 24 04:18:18 UTC 2013</title>
+      <pubDate>Fri, 24 May 2013 04:18:18 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1369369098</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1369369098 (Fri, 24 May 2013 04:18:18 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1369369098#1369369098#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Fri May 24 04:18:18 UTC 2013</title>
+      <pubDate>Fri, 24 May 2013 04:18:18 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1369369098</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1369369098 (Fri, 24 May 2013 04:18:18 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1369369098#1369369098#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Wed May 22 14:11:13 UTC 2013</title>
+      <pubDate>Wed, 22 May 2013 14:11:13 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1369231873</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1369231873 (Wed, 22 May 2013 14:11:13 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1369231873#1369231873#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Wed May 22 14:11:13 UTC 2013</title>
+      <pubDate>Wed, 22 May 2013 14:11:13 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1369231873</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1369231873 (Wed, 22 May 2013 14:11:13 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1369231873#1369231873#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Tue May 21 08:38:12 UTC 2013</title>
+      <pubDate>Tue, 21 May 2013 08:38:12 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1369125492</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1369125492 (Tue, 21 May 2013 08:38:12 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1369125492#1369125492#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Tue May 21 08:38:12 UTC 2013</title>
+      <pubDate>Tue, 21 May 2013 08:38:12 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1369125492</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1369125492 (Tue, 21 May 2013 08:38:12 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1369125492#1369125492#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Mon May 20 21:01:33 UTC 2013</title>
+      <pubDate>Mon, 20 May 2013 21:01:33 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1369083693</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1369083693 (Mon, 20 May 2013 21:01:33 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1369083693#1369083693#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Mon May 20 21:01:33 UTC 2013</title>
+      <pubDate>Mon, 20 May 2013 21:01:33 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1369083693</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1369083693 (Mon, 20 May 2013 21:01:33 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1369083693#1369083693#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien Pastures: Last week’s harvest</title>
+      <pubDate>Sat, 18 May 2013 22:52:03 -0000</pubDate>
+      <author>alienbob</author>
+      <link>http://alien.slackbook.org/blog/last-weeks-harvest/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=last-weeks-harvest</link>
+      <description>Alien Pastures: http://alien.slackbook.org/blog/last-weeks-harvest/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=last-weeks-harvest (Sat, 18 May 2013 22:52:03 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/blog/last-weeks-harvest/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=last-weeks-harvest#1368917523#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Fri May 17 04:18:10 UTC 2013</title>
+      <pubDate>Fri, 17 May 2013 04:18:10 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1368764290</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1368764290 (Fri, 17 May 2013 04:18:10 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1368764290#1368764290#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Fri May 17 04:18:10 UTC 2013</title>
+      <pubDate>Fri, 17 May 2013 04:18:10 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1368764290</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1368764290 (Fri, 17 May 2013 04:18:10 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1368764290#1368764290#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Thu May 16 21:42:08 UTC 2013 (* Security fix *)</title>
+      <pubDate>Thu, 16 May 2013 21:42:08 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1368740528</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1368740528 (Thu, 16 May 2013 21:42:08 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1368740528#1368740528#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Thu May 16 21:42:08 UTC 2013 (* Security fix *)</title>
+      <pubDate>Thu, 16 May 2013 21:42:08 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1368740528</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1368740528 (Thu, 16 May 2013 21:42:08 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1368740528#1368740528#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Thu May 16 18:28:01 UTC 2013</title>
+      <pubDate>Thu, 16 May 2013 18:28:01 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1368728881</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1368728881 (Thu, 16 May 2013 18:28:01 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1368728881#1368728881#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Thu May 16 18:28:01 UTC 2013</title>
+      <pubDate>Thu, 16 May 2013 18:28:01 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1368728881</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1368728881 (Thu, 16 May 2013 18:28:01 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1368728881#1368728881#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Wed May 15 23:46:00 UTC 2013 (* Security fix *)</title>
+      <pubDate>Wed, 15 May 2013 23:46:00 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1368661560</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1368661560 (Wed, 15 May 2013 23:46:00 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1368661560#1368661560#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Wed May 15 23:46:00 UTC 2013 (* Security fix *)</title>
+      <pubDate>Wed, 15 May 2013 23:46:00 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1368661560</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1368661560 (Wed, 15 May 2013 23:46:00 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1368661560#1368661560#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's unofficial KDE Slackware packages: Wed, 15 May 2013 14:56:21 GMT</title>
+      <pubDate>Wed, 15 May 2013 14:56:21 -0000</pubDate>
+      <author/>
+      <link>http://alien.slackbook.org/ktown/ChangeLog.txt</link>
+      <description>Alien's unofficial KDE Slackware packages: http://alien.slackbook.org/ktown/ChangeLog.txt (Wed, 15 May 2013 14:56:21 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/ktown/ChangeLog.txt#1368629781#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Tue May 14 06:33:30 UTC 2013</title>
+      <pubDate>Tue, 14 May 2013 06:33:30 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1368513210</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1368513210 (Tue, 14 May 2013 06:33:30 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1368513210#1368513210#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Tue May 14 06:33:30 UTC 2013</title>
+      <pubDate>Tue, 14 May 2013 06:33:30 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1368513210</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1368513210 (Tue, 14 May 2013 06:33:30 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1368513210#1368513210#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Mon May 13 06:11:15 UTC 2013</title>
+      <pubDate>Mon, 13 May 2013 06:11:15 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1368425475</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1368425475 (Mon, 13 May 2013 06:11:15 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1368425475#1368425475#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Mon May 13 06:11:15 UTC 2013</title>
+      <pubDate>Mon, 13 May 2013 06:11:15 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1368425475</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1368425475 (Mon, 13 May 2013 06:11:15 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1368425475#1368425475#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Mon, 13 May 2013 01:30:07 GMT</title>
+      <pubDate>Mon, 13 May 2013 01:30:07 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20130513T013007Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20130513T013007Z (Mon, 13 May 2013 01:30:07 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20130513T013007Z#1368408607#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien Pastures: LibreOffice 4.0.3 packages ready for download (and a rant)</title>
+      <pubDate>Fri, 10 May 2013 21:15:15 -0000</pubDate>
+      <author>alienbob</author>
+      <link>http://alien.slackbook.org/blog/libreoffice-4-0-3-packages-ready-for-download-and-a-rant/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=libreoffice-4-0-3-packages-ready-for-download-and-a-rant</link>
+      <description>Alien Pastures: http://alien.slackbook.org/blog/libreoffice-4-0-3-packages-ready-for-download-and-a-rant/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=libreoffice-4-0-3-packages-ready-for-download-and-a-rant (Fri, 10 May 2013 21:15:15 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/blog/libreoffice-4-0-3-packages-ready-for-download-and-a-rant/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=libreoffice-4-0-3-packages-ready-for-download-and-a-rant#1368220515#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien Pastures: KDE Software Compilation 4.10.3 for Slackware 14.</title>
+      <pubDate>Thu, 09 May 2013 22:39:36 -0000</pubDate>
+      <author>alienbob</author>
+      <link>http://alien.slackbook.org/blog/kde-software-compilation-4-10-3-for-slackware-14/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kde-software-compilation-4-10-3-for-slackware-14</link>
+      <description>Alien Pastures: http://alien.slackbook.org/blog/kde-software-compilation-4-10-3-for-slackware-14/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kde-software-compilation-4-10-3-for-slackware-14 (Thu, 09 May 2013 22:39:36 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/blog/kde-software-compilation-4-10-3-for-slackware-14/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kde-software-compilation-4-10-3-for-slackware-14#1368139176#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's unofficial KDE Slackware packages: Thu,  9 May 2013 22:11:31 GMT</title>
+      <pubDate>Thu, 09 May 2013 22:11:31 -0000</pubDate>
+      <author/>
+      <link>http://alien.slackbook.org/ktown/ChangeLog.txt</link>
+      <description>Alien's unofficial KDE Slackware packages: http://alien.slackbook.org/ktown/ChangeLog.txt (Thu, 09 May 2013 22:11:31 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/ktown/ChangeLog.txt#1368137491#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien Pastures: A look on the sunny side</title>
+      <pubDate>Thu, 09 May 2013 14:04:24 -0000</pubDate>
+      <author>alienbob</author>
+      <link>http://alien.slackbook.org/blog/a-look-on-the-sunny-side/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=a-look-on-the-sunny-side</link>
+      <description>Alien Pastures: http://alien.slackbook.org/blog/a-look-on-the-sunny-side/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=a-look-on-the-sunny-side (Thu, 09 May 2013 14:04:24 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/blog/a-look-on-the-sunny-side/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=a-look-on-the-sunny-side#1368108264#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Tue May 07 18:13:13 UTC 2013</title>
+      <pubDate>Tue, 07 May 2013 18:13:13 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1367950393</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1367950393 (Tue, 07 May 2013 18:13:13 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1367950393#1367950393#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Tue May 07 18:13:13 UTC 2013</title>
+      <pubDate>Tue, 07 May 2013 18:13:13 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1367950393</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1367950393 (Tue, 07 May 2013 18:13:13 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1367950393#1367950393#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Mon May 06 07:41:56 UTC 2013</title>
+      <pubDate>Mon, 06 May 2013 07:41:56 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1367826116</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1367826116 (Mon, 06 May 2013 07:41:56 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1367826116#1367826116#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Mon May 06 07:41:56 UTC 2013</title>
+      <pubDate>Mon, 06 May 2013 07:41:56 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1367826116</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1367826116 (Mon, 06 May 2013 07:41:56 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1367826116#1367826116#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Fri May 03 03:23:05 UTC 2013</title>
+      <pubDate>Fri, 03 May 2013 03:23:05 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1367551385</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1367551385 (Fri, 03 May 2013 03:23:05 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1367551385#1367551385#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Fri May 03 03:23:05 UTC 2013</title>
+      <pubDate>Fri, 03 May 2013 03:23:05 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1367551385</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1367551385 (Fri, 03 May 2013 03:23:05 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1367551385#1367551385#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Mon Apr 29 05:59:01 UTC 2013</title>
+      <pubDate>Mon, 29 Apr 2013 05:59:01 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1367215141</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1367215141 (Mon, 29 Apr 2013 05:59:01 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1367215141#1367215141#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Mon Apr 29 05:59:01 UTC 2013</title>
+      <pubDate>Mon, 29 Apr 2013 05:59:01 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1367215141</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1367215141 (Mon, 29 Apr 2013 05:59:01 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1367215141#1367215141#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Sun, 28 Apr 2013 15:57:51 GMT</title>
+      <pubDate>Sun, 28 Apr 2013 15:57:51 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20130428T155751Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20130428T155751Z (Sun, 28 Apr 2013 15:57:51 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20130428T155751Z#1367164671#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's Slackware packages: Thu, 25 Apr 2013 21:27:04 GMT</title>
+      <pubDate>Thu, 25 Apr 2013 21:27:04 -0000</pubDate>
+      <author/>
+      <link>http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt</link>
+      <description>Alien's Slackware packages: http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt (Thu, 25 Apr 2013 21:27:04 -0000)</description>
+      <guid isPermaLink="true">http://www.slackware.com/~alien/slackbuilds/ChangeLog.txt#1366925224#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Tue Apr 23 23:35:24 UTC 2013</title>
+      <pubDate>Tue, 23 Apr 2013 23:35:24 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1366760124</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1366760124 (Tue, 23 Apr 2013 23:35:24 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1366760124#1366760124#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Tue Apr 23 23:35:24 UTC 2013</title>
+      <pubDate>Tue, 23 Apr 2013 23:35:24 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1366760124</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1366760124 (Tue, 23 Apr 2013 23:35:24 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1366760124#1366760124#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien Pastures: OpenJDK 7 Update 21 released</title>
+      <pubDate>Mon, 22 Apr 2013 19:46:39 -0000</pubDate>
+      <author>alienbob</author>
+      <link>http://alien.slackbook.org/blog/openjdk-7-update-21-released/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=openjdk-7-update-21-released</link>
+      <description>Alien Pastures: http://alien.slackbook.org/blog/openjdk-7-update-21-released/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=openjdk-7-update-21-released (Mon, 22 Apr 2013 19:46:39 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/blog/openjdk-7-update-21-released/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=openjdk-7-update-21-released#1366659999#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien Pastures: Rebuild for glibc-2.17_multilib in slackware-current</title>
+      <pubDate>Sun, 21 Apr 2013 13:11:25 -0000</pubDate>
+      <author>alienbob</author>
+      <link>http://alien.slackbook.org/blog/rebuild-for-glibc-2-17_multilib-in-slackware-current/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rebuild-for-glibc-2-17_multilib-in-slackware-current</link>
+      <description>Alien Pastures: http://alien.slackbook.org/blog/rebuild-for-glibc-2-17_multilib-in-slackware-current/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rebuild-for-glibc-2-17_multilib-in-slackware-current (Sun, 21 Apr 2013 13:11:25 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/blog/rebuild-for-glibc-2-17_multilib-in-slackware-current/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rebuild-for-glibc-2-17_multilib-in-slackware-current#1366549885#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Fri Apr 19 21:24:48 UTC 2013 (* Security fix *)</title>
+      <pubDate>Fri, 19 Apr 2013 21:24:48 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1366406688</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1366406688 (Fri, 19 Apr 2013 21:24:48 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1366406688#1366406688#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Fri Apr 19 21:24:48 UTC 2013 (* Security fix *)</title>
+      <pubDate>Fri, 19 Apr 2013 21:24:48 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1366406688</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1366406688 (Fri, 19 Apr 2013 21:24:48 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1366406688#1366406688#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Wed Apr 17 02:09:43 UTC 2013</title>
+      <pubDate>Wed, 17 Apr 2013 02:09:43 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1366164583</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1366164583 (Wed, 17 Apr 2013 02:09:43 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1366164583#1366164583#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Wed Apr 17 02:09:43 UTC 2013</title>
+      <pubDate>Wed, 17 Apr 2013 02:09:43 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1366164583</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1366164583 (Wed, 17 Apr 2013 02:09:43 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1366164583#1366164583#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Mon, 15 Apr 2013 22:47:04 GMT</title>
+      <pubDate>Mon, 15 Apr 2013 22:47:04 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20130415T224704Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20130415T224704Z (Mon, 15 Apr 2013 22:47:04 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20130415T224704Z#1366066024#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Mon, 15 Apr 2013 22:21:59 GMT</title>
+      <pubDate>Mon, 15 Apr 2013 22:21:59 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20130415T222159Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20130415T222159Z (Mon, 15 Apr 2013 22:21:59 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20130415T222159Z#1366064519#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's unofficial KDE Slackware packages: Sun, 14 Apr 2013 21:01:55 GMT</title>
+      <pubDate>Sun, 14 Apr 2013 21:01:55 -0000</pubDate>
+      <author/>
+      <link>http://alien.slackbook.org/ktown/ChangeLog.txt</link>
+      <description>Alien's unofficial KDE Slackware packages: http://alien.slackbook.org/ktown/ChangeLog.txt (Sun, 14 Apr 2013 21:01:55 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/ktown/ChangeLog.txt#1365973315#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Thu Apr 11 03:52:06 UTC 2013</title>
+      <pubDate>Thu, 11 Apr 2013 03:52:06 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1365652326</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1365652326 (Thu, 11 Apr 2013 03:52:06 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1365652326#1365652326#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Thu Apr 11 03:52:06 UTC 2013</title>
+      <pubDate>Thu, 11 Apr 2013 03:52:06 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1365652326</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1365652326 (Thu, 11 Apr 2013 03:52:06 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1365652326#1365652326#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Tue Apr 09 22:36:41 UTC 2013</title>
+      <pubDate>Tue, 09 Apr 2013 22:36:41 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1365547001</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1365547001 (Tue, 09 Apr 2013 22:36:41 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1365547001#1365547001#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Tue Apr 09 22:36:41 UTC 2013</title>
+      <pubDate>Tue, 09 Apr 2013 22:36:41 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1365547001</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1365547001 (Tue, 09 Apr 2013 22:36:41 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1365547001#1365547001#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Tue Apr 09 06:07:39 UTC 2013</title>
+      <pubDate>Tue, 09 Apr 2013 06:07:39 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1365487659</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1365487659 (Tue, 09 Apr 2013 06:07:39 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1365487659#1365487659#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Tue Apr 09 06:07:39 UTC 2013</title>
+      <pubDate>Tue, 09 Apr 2013 06:07:39 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1365487659</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1365487659 (Tue, 09 Apr 2013 06:07:39 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1365487659#1365487659#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Sun Apr 07 23:23:38 UTC 2013 (* Security fix *)</title>
+      <pubDate>Sun, 07 Apr 2013 23:23:38 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1365377018</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1365377018 (Sun, 07 Apr 2013 23:23:38 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1365377018#1365377018#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Sun Apr 07 23:23:38 UTC 2013 (* Security fix *)</title>
+      <pubDate>Sun, 07 Apr 2013 23:23:38 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1365377018</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1365377018 (Sun, 07 Apr 2013 23:23:38 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1365377018#1365377018#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Sat Apr 06 05:25:15 UTC 2013</title>
+      <pubDate>Sat, 06 Apr 2013 05:25:15 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1365225915</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1365225915 (Sat, 06 Apr 2013 05:25:15 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1365225915#1365225915#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Sat Apr 06 05:25:15 UTC 2013</title>
+      <pubDate>Sat, 06 Apr 2013 05:25:15 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1365225915</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1365225915 (Sat, 06 Apr 2013 05:25:15 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1365225915#1365225915#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Fri Apr 05 05:21:45 UTC 2013 (* Security fix *)</title>
+      <pubDate>Fri, 05 Apr 2013 05:21:45 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1365139305</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1365139305 (Fri, 05 Apr 2013 05:21:45 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1365139305#1365139305#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Fri Apr 05 05:21:45 UTC 2013 (* Security fix *)</title>
+      <pubDate>Fri, 05 Apr 2013 05:21:45 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1365139305</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1365139305 (Fri, 05 Apr 2013 05:21:45 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1365139305#1365139305#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's unofficial KDE Slackware packages: Wed,  3 Apr 2013 21:01:21 GMT</title>
+      <pubDate>Wed, 03 Apr 2013 21:01:21 -0000</pubDate>
+      <author/>
+      <link>http://alien.slackbook.org/ktown/ChangeLog.txt</link>
+      <description>Alien's unofficial KDE Slackware packages: http://alien.slackbook.org/ktown/ChangeLog.txt (Wed, 03 Apr 2013 21:01:21 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/ktown/ChangeLog.txt#1365022881#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Wed Apr 03 06:58:59 UTC 2013 (* Security fix *)</title>
+      <pubDate>Wed, 03 Apr 2013 06:58:59 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1364972339</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1364972339 (Wed, 03 Apr 2013 06:58:59 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1364972339#1364972339#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Wed Apr 03 06:58:59 UTC 2013 (* Security fix *)</title>
+      <pubDate>Wed, 03 Apr 2013 06:58:59 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1364972339</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1364972339 (Wed, 03 Apr 2013 06:58:59 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1364972339#1364972339#slackagg</guid>
+    </item>
+    <item>
+      <title>Robby Workman's Slackware Packages: Tue,  2 Apr 2013 11:49:22 GMT</title>
+      <pubDate>Tue, 02 Apr 2013 11:49:22 -0000</pubDate>
+      <author/>
+      <link>http://rlworkman.net/pkgs/14.0/ChangeLog.txt</link>
+      <description>Robby Workman's Slackware Packages: http://rlworkman.net/pkgs/14.0/ChangeLog.txt (Tue, 02 Apr 2013 11:49:22 -0000)</description>
+      <guid isPermaLink="true">http://rlworkman.net/pkgs/14.0/ChangeLog.txt#1364903362#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Mon Apr 01 00:41:44 UTC 2013</title>
+      <pubDate>Mon, 01 Apr 2013 00:41:44 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1364776904</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1364776904 (Mon, 01 Apr 2013 00:41:44 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1364776904#1364776904#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Mon Apr 01 00:41:44 UTC 2013</title>
+      <pubDate>Mon, 01 Apr 2013 00:41:44 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1364776904</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1364776904 (Mon, 01 Apr 2013 00:41:44 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1364776904#1364776904#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Fri Mar 29 00:27:36 UTC 2013 (* Security fix *)</title>
+      <pubDate>Fri, 29 Mar 2013 00:27:36 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1364516856</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1364516856 (Fri, 29 Mar 2013 00:27:36 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1364516856#1364516856#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Fri Mar 29 00:27:36 UTC 2013 (* Security fix *)</title>
+      <pubDate>Fri, 29 Mar 2013 00:27:36 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1364516856</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1364516856 (Fri, 29 Mar 2013 00:27:36 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1364516856#1364516856#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Thu Mar 28 06:59:52 UTC 2013</title>
+      <pubDate>Thu, 28 Mar 2013 06:59:52 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1364453992</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1364453992 (Thu, 28 Mar 2013 06:59:52 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1364453992#1364453992#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Thu Mar 28 06:59:52 UTC 2013</title>
+      <pubDate>Thu, 28 Mar 2013 06:59:52 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1364453992</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1364453992 (Thu, 28 Mar 2013 06:59:52 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1364453992#1364453992#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Wed Mar 27 06:09:29 UTC 2013 (* Security fix *)</title>
+      <pubDate>Wed, 27 Mar 2013 06:09:29 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1364364569</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1364364569 (Wed, 27 Mar 2013 06:09:29 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1364364569#1364364569#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Wed Mar 27 06:09:29 UTC 2013 (* Security fix *)</title>
+      <pubDate>Wed, 27 Mar 2013 06:09:29 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1364364569</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1364364569 (Wed, 27 Mar 2013 06:09:29 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1364364569#1364364569#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Mon Mar 25 20:31:21 UTC 2013</title>
+      <pubDate>Mon, 25 Mar 2013 20:31:21 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1364243481</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1364243481 (Mon, 25 Mar 2013 20:31:21 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1364243481#1364243481#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Mon Mar 25 20:31:21 UTC 2013</title>
+      <pubDate>Mon, 25 Mar 2013 20:31:21 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1364243481</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1364243481 (Mon, 25 Mar 2013 20:31:21 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1364243481#1364243481#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Sat Mar 23 22:49:52 UTC 2013 (* Security fix *)</title>
+      <pubDate>Sat, 23 Mar 2013 22:49:52 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1364078992</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1364078992 (Sat, 23 Mar 2013 22:49:52 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1364078992#1364078992#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Sat Mar 23 22:49:52 UTC 2013 (* Security fix *)</title>
+      <pubDate>Sat, 23 Mar 2013 22:49:52 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1364078992</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1364078992 (Sat, 23 Mar 2013 22:49:52 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1364078992#1364078992#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Fri, 22 Mar 2013 11:23:26 GMT</title>
+      <pubDate>Fri, 22 Mar 2013 11:23:26 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20130322T112326Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20130322T112326Z (Fri, 22 Mar 2013 11:23:26 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20130322T112326Z#1363951406#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Wed Mar 20 22:33:35 UTC 2013</title>
+      <pubDate>Wed, 20 Mar 2013 22:33:35 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1363818815</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1363818815 (Wed, 20 Mar 2013 22:33:35 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1363818815#1363818815#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Wed Mar 20 22:33:35 UTC 2013</title>
+      <pubDate>Wed, 20 Mar 2013 22:33:35 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1363818815</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1363818815 (Wed, 20 Mar 2013 22:33:35 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1363818815#1363818815#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Wed Mar 20 05:59:55 UTC 2013</title>
+      <pubDate>Wed, 20 Mar 2013 05:59:55 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1363759195</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1363759195 (Wed, 20 Mar 2013 05:59:55 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1363759195#1363759195#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Wed Mar 20 05:59:55 UTC 2013</title>
+      <pubDate>Wed, 20 Mar 2013 05:59:55 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1363759195</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1363759195 (Wed, 20 Mar 2013 05:59:55 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1363759195#1363759195#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Tue Mar 19 21:21:57 UTC 2013</title>
+      <pubDate>Tue, 19 Mar 2013 21:21:57 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1363728117</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1363728117 (Tue, 19 Mar 2013 21:21:57 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1363728117#1363728117#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Tue Mar 19 21:21:57 UTC 2013</title>
+      <pubDate>Tue, 19 Mar 2013 21:21:57 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1363728117</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1363728117 (Tue, 19 Mar 2013 21:21:57 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1363728117#1363728117#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Mon Mar 18 22:03:18 UTC 2013</title>
+      <pubDate>Mon, 18 Mar 2013 22:03:18 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1363644198</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1363644198 (Mon, 18 Mar 2013 22:03:18 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1363644198#1363644198#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Mon Mar 18 22:03:18 UTC 2013</title>
+      <pubDate>Mon, 18 Mar 2013 22:03:18 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1363644198</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1363644198 (Mon, 18 Mar 2013 22:03:18 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1363644198#1363644198#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Sat Mar 16 19:35:45 UTC 2013</title>
+      <pubDate>Sat, 16 Mar 2013 19:35:45 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1363462545</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1363462545 (Sat, 16 Mar 2013 19:35:45 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1363462545#1363462545#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Sat Mar 16 19:35:45 UTC 2013</title>
+      <pubDate>Sat, 16 Mar 2013 19:35:45 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1363462545</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1363462545 (Sat, 16 Mar 2013 19:35:45 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1363462545#1363462545#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Sat Mar 16 07:10:09 UTC 2013 (* Security fix *)</title>
+      <pubDate>Sat, 16 Mar 2013 07:10:09 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1363417809</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1363417809 (Sat, 16 Mar 2013 07:10:09 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1363417809#1363417809#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Sat Mar 16 07:10:09 UTC 2013 (* Security fix *)</title>
+      <pubDate>Sat, 16 Mar 2013 07:10:09 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1363417809</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1363417809 (Sat, 16 Mar 2013 07:10:09 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1363417809#1363417809#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Thu Mar 14 03:55:33 UTC 2013 (* Security fix *)</title>
+      <pubDate>Thu, 14 Mar 2013 03:55:33 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1363233333</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1363233333 (Thu, 14 Mar 2013 03:55:33 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1363233333#1363233333#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Thu Mar 14 03:55:33 UTC 2013 (* Security fix *)</title>
+      <pubDate>Thu, 14 Mar 2013 03:55:33 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1363233333</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1363233333 (Thu, 14 Mar 2013 03:55:33 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1363233333#1363233333#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Tue Mar 12 06:59:27 UTC 2013</title>
+      <pubDate>Tue, 12 Mar 2013 06:59:27 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1363071567</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1363071567 (Tue, 12 Mar 2013 06:59:27 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1363071567#1363071567#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Tue Mar 12 06:59:27 UTC 2013</title>
+      <pubDate>Tue, 12 Mar 2013 06:59:27 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1363071567</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1363071567 (Tue, 12 Mar 2013 06:59:27 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1363071567#1363071567#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Sat Mar 09 06:19:05 UTC 2013 (* Security fix *)</title>
+      <pubDate>Sat, 09 Mar 2013 06:19:05 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1362809945</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1362809945 (Sat, 09 Mar 2013 06:19:05 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1362809945#1362809945#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Sat Mar 09 06:19:05 UTC 2013 (* Security fix *)</title>
+      <pubDate>Sat, 09 Mar 2013 06:19:05 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1362809945</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1362809945 (Sat, 09 Mar 2013 06:19:05 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1362809945#1362809945#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's unofficial KDE Slackware packages: Thu,  7 Mar 2013 08:58:55 GMT</title>
+      <pubDate>Thu, 07 Mar 2013 08:58:55 -0000</pubDate>
+      <author/>
+      <link>http://alien.slackbook.org/ktown/ChangeLog.txt</link>
+      <description>Alien's unofficial KDE Slackware packages: http://alien.slackbook.org/ktown/ChangeLog.txt (Thu, 07 Mar 2013 08:58:55 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/ktown/ChangeLog.txt#1362646735#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Thu Mar 07 00:16:35 UTC 2013 (* Security fix *)</title>
+      <pubDate>Thu, 07 Mar 2013 00:16:35 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1362615395</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1362615395 (Thu, 07 Mar 2013 00:16:35 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1362615395#1362615395#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Thu Mar 07 00:16:35 UTC 2013 (* Security fix *)</title>
+      <pubDate>Thu, 07 Mar 2013 00:16:35 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1362615395</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1362615395 (Thu, 07 Mar 2013 00:16:35 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1362615395#1362615395#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's unofficial KDE Slackware packages: Tue,  5 Mar 2013 08:58:18 GMT</title>
+      <pubDate>Tue, 05 Mar 2013 08:58:18 -0000</pubDate>
+      <author/>
+      <link>http://alien.slackbook.org/ktown/ChangeLog.txt</link>
+      <description>Alien's unofficial KDE Slackware packages: http://alien.slackbook.org/ktown/ChangeLog.txt (Tue, 05 Mar 2013 08:58:18 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/ktown/ChangeLog.txt#1362473898#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Mon, 04 Mar 2013 22:30:59 GMT</title>
+      <pubDate>Mon, 04 Mar 2013 22:30:59 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20130304T223059Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20130304T223059Z (Mon, 04 Mar 2013 22:30:59 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20130304T223059Z#1362436259#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Sun Mar 03 22:10:56 UTC 2013 (* Security fix *)</title>
+      <pubDate>Sun, 03 Mar 2013 22:10:56 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1362348656</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1362348656 (Sun, 03 Mar 2013 22:10:56 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1362348656#1362348656#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Sun Mar 03 22:10:56 UTC 2013 (* Security fix *)</title>
+      <pubDate>Sun, 03 Mar 2013 22:10:56 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1362348656</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1362348656 (Sun, 03 Mar 2013 22:10:56 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1362348656#1362348656#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Fri Mar 01 05:41:39 UTC 2013</title>
+      <pubDate>Fri, 01 Mar 2013 05:41:39 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1362116499</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1362116499 (Fri, 01 Mar 2013 05:41:39 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1362116499#1362116499#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Fri Mar 01 05:41:39 UTC 2013</title>
+      <pubDate>Fri, 01 Mar 2013 05:41:39 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1362116499</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1362116499 (Fri, 01 Mar 2013 05:41:39 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1362116499#1362116499#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Wed Feb 27 04:58:17 UTC 2013</title>
+      <pubDate>Wed, 27 Feb 2013 04:58:17 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1361941097</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1361941097 (Wed, 27 Feb 2013 04:58:17 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1361941097#1361941097#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Wed Feb 27 04:58:17 UTC 2013</title>
+      <pubDate>Wed, 27 Feb 2013 04:58:17 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1361941097</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1361941097 (Wed, 27 Feb 2013 04:58:17 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1361941097#1361941097#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Mon Feb 25 19:45:33 UTC 2013 (* Security fix *)</title>
+      <pubDate>Mon, 25 Feb 2013 19:45:33 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1361821533</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1361821533 (Mon, 25 Feb 2013 19:45:33 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1361821533#1361821533#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Mon Feb 25 19:45:33 UTC 2013 (* Security fix *)</title>
+      <pubDate>Mon, 25 Feb 2013 19:45:33 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1361821533</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1361821533 (Mon, 25 Feb 2013 19:45:33 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1361821533#1361821533#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Mon, 25 Feb 2013 04:55:27 GMT</title>
+      <pubDate>Mon, 25 Feb 2013 04:55:27 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20130225T045527Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20130225T045527Z (Mon, 25 Feb 2013 04:55:27 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20130225T045527Z#1361768127#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Sat Feb 23 22:34:33 UTC 2013</title>
+      <pubDate>Sat, 23 Feb 2013 22:34:33 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1361658873</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1361658873 (Sat, 23 Feb 2013 22:34:33 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1361658873#1361658873#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Sat Feb 23 22:34:33 UTC 2013</title>
+      <pubDate>Sat, 23 Feb 2013 22:34:33 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1361658873</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1361658873 (Sat, 23 Feb 2013 22:34:33 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1361658873#1361658873#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Sat, 23 Feb 2013 04:30:38 GMT</title>
+      <pubDate>Sat, 23 Feb 2013 04:30:38 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20130223T043038Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20130223T043038Z (Sat, 23 Feb 2013 04:30:38 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20130223T043038Z#1361593838#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Fri Feb 22 02:14:43 UTC 2013</title>
+      <pubDate>Fri, 22 Feb 2013 02:14:43 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1361499283</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1361499283 (Fri, 22 Feb 2013 02:14:43 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1361499283#1361499283#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Fri Feb 22 02:14:43 UTC 2013</title>
+      <pubDate>Fri, 22 Feb 2013 02:14:43 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1361499283</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1361499283 (Fri, 22 Feb 2013 02:14:43 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1361499283#1361499283#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Fri Feb 22 01:09:25 UTC 2013</title>
+      <pubDate>Fri, 22 Feb 2013 01:09:25 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1361495365</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1361495365 (Fri, 22 Feb 2013 01:09:25 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1361495365#1361495365#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Fri Feb 22 01:09:25 UTC 2013</title>
+      <pubDate>Fri, 22 Feb 2013 01:09:25 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1361495365</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1361495365 (Fri, 22 Feb 2013 01:09:25 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1361495365#1361495365#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Wed Feb 20 05:24:23 UTC 2013 (* Security fix *)</title>
+      <pubDate>Wed, 20 Feb 2013 05:24:23 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1361337863</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1361337863 (Wed, 20 Feb 2013 05:24:23 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1361337863#1361337863#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Wed Feb 20 05:24:23 UTC 2013 (* Security fix *)</title>
+      <pubDate>Wed, 20 Feb 2013 05:24:23 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1361337863</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1361337863 (Wed, 20 Feb 2013 05:24:23 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1361337863#1361337863#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Fri Feb 15 22:46:52 UTC 2013</title>
+      <pubDate>Fri, 15 Feb 2013 22:46:52 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1360968412</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1360968412 (Fri, 15 Feb 2013 22:46:52 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1360968412#1360968412#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Fri Feb 15 22:46:52 UTC 2013</title>
+      <pubDate>Fri, 15 Feb 2013 22:46:52 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1360968412</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1360968412 (Fri, 15 Feb 2013 22:46:52 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1360968412#1360968412#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Fri Feb 15 07:26:45 UTC 2013</title>
+      <pubDate>Fri, 15 Feb 2013 07:26:45 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1360913205</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1360913205 (Fri, 15 Feb 2013 07:26:45 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1360913205#1360913205#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Fri Feb 15 07:26:45 UTC 2013</title>
+      <pubDate>Fri, 15 Feb 2013 07:26:45 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1360913205</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1360913205 (Fri, 15 Feb 2013 07:26:45 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1360913205#1360913205#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Thu, 14 Feb 2013 06:30:40 GMT</title>
+      <pubDate>Thu, 14 Feb 2013 06:30:40 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20130214T063040Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20130214T063040Z (Thu, 14 Feb 2013 06:30:40 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20130214T063040Z#1360823440#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Thu Feb 14 05:35:22 UTC 2013 (* Security fix *)</title>
+      <pubDate>Thu, 14 Feb 2013 05:35:22 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1360820122</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1360820122 (Thu, 14 Feb 2013 05:35:22 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1360820122#1360820122#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Thu Feb 14 05:35:22 UTC 2013 (* Security fix *)</title>
+      <pubDate>Thu, 14 Feb 2013 05:35:22 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1360820122</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1360820122 (Thu, 14 Feb 2013 05:35:22 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1360820122#1360820122#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Tue Feb 12 21:33:16 UTC 2013</title>
+      <pubDate>Tue, 12 Feb 2013 21:33:16 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1360704796</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1360704796 (Tue, 12 Feb 2013 21:33:16 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1360704796#1360704796#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Tue Feb 12 21:33:16 UTC 2013</title>
+      <pubDate>Tue, 12 Feb 2013 21:33:16 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1360704796</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1360704796 (Tue, 12 Feb 2013 21:33:16 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1360704796#1360704796#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Tue Feb 12 02:34:07 UTC 2013</title>
+      <pubDate>Tue, 12 Feb 2013 02:34:07 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1360636447</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1360636447 (Tue, 12 Feb 2013 02:34:07 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1360636447#1360636447#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Tue Feb 12 02:34:07 UTC 2013</title>
+      <pubDate>Tue, 12 Feb 2013 02:34:07 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1360636447</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1360636447 (Tue, 12 Feb 2013 02:34:07 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1360636447#1360636447#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's unofficial KDE Slackware packages: Sat,  9 Feb 2013 23:49:27 GMT</title>
+      <pubDate>Sat, 09 Feb 2013 23:49:27 -0000</pubDate>
+      <author/>
+      <link>http://alien.slackbook.org/ktown/ChangeLog.txt</link>
+      <description>Alien's unofficial KDE Slackware packages: http://alien.slackbook.org/ktown/ChangeLog.txt (Sat, 09 Feb 2013 23:49:27 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/ktown/ChangeLog.txt#1360453767#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Sat Feb 09 21:45:56 UTC 2013 (* Security fix *)</title>
+      <pubDate>Sat, 09 Feb 2013 21:45:56 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1360446356</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1360446356 (Sat, 09 Feb 2013 21:45:56 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1360446356#1360446356#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Sat Feb 09 21:45:56 UTC 2013 (* Security fix *)</title>
+      <pubDate>Sat, 09 Feb 2013 21:45:56 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1360446356</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1360446356 (Sat, 09 Feb 2013 21:45:56 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1360446356#1360446356#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Fri Feb 08 03:57:05 UTC 2013 (* Security fix *)</title>
+      <pubDate>Fri, 08 Feb 2013 03:57:05 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1360295825</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1360295825 (Fri, 08 Feb 2013 03:57:05 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1360295825#1360295825#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Fri Feb 08 03:57:05 UTC 2013 (* Security fix *)</title>
+      <pubDate>Fri, 08 Feb 2013 03:57:05 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1360295825</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1360295825 (Fri, 08 Feb 2013 03:57:05 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1360295825#1360295825#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Wed Feb 06 07:14:25 UTC 2013</title>
+      <pubDate>Wed, 06 Feb 2013 07:14:25 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1360134865</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1360134865 (Wed, 06 Feb 2013 07:14:25 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1360134865#1360134865#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Wed Feb 06 07:14:25 UTC 2013</title>
+      <pubDate>Wed, 06 Feb 2013 07:14:25 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1360134865</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1360134865 (Wed, 06 Feb 2013 07:14:25 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1360134865#1360134865#slackagg</guid>
+    </item>
+    <item>
+      <title>Robby Workman's Slackware Packages: Wed,  6 Feb 2013 05:04:24 GMT</title>
+      <pubDate>Wed, 06 Feb 2013 05:04:24 -0000</pubDate>
+      <author/>
+      <link>http://rlworkman.net/pkgs/14.0/ChangeLog.txt</link>
+      <description>Robby Workman's Slackware Packages: http://rlworkman.net/pkgs/14.0/ChangeLog.txt (Wed, 06 Feb 2013 05:04:24 -0000)</description>
+      <guid isPermaLink="true">http://rlworkman.net/pkgs/14.0/ChangeLog.txt#1360127064#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Wed, 06 Feb 2013 04:41:47 GMT</title>
+      <pubDate>Wed, 06 Feb 2013 04:41:47 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20130206T044147Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20130206T044147Z (Wed, 06 Feb 2013 04:41:47 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20130206T044147Z#1360125707#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's unofficial KDE Slackware packages: Tue,  5 Feb 2013 20:37:02 GMT</title>
+      <pubDate>Tue, 05 Feb 2013 20:37:02 -0000</pubDate>
+      <author/>
+      <link>http://alien.slackbook.org/ktown/ChangeLog.txt</link>
+      <description>Alien's unofficial KDE Slackware packages: http://alien.slackbook.org/ktown/ChangeLog.txt (Tue, 05 Feb 2013 20:37:02 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/ktown/ChangeLog.txt#1360096622#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Tue Jan 22 23:40:16 UTC 2013 (* Security fix *)</title>
+      <pubDate>Tue, 22 Jan 2013 23:40:16 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1358898016</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1358898016 (Tue, 22 Jan 2013 23:40:16 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1358898016#1358898016#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Tue Jan 22 23:40:16 UTC 2013 (* Security fix *)</title>
+      <pubDate>Tue, 22 Jan 2013 23:40:16 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1358898016</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1358898016 (Tue, 22 Jan 2013 23:40:16 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1358898016#1358898016#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Mon Jan 21 22:46:22 UTC 2013</title>
+      <pubDate>Mon, 21 Jan 2013 22:46:22 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1358808382</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1358808382 (Mon, 21 Jan 2013 22:46:22 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1358808382#1358808382#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Mon Jan 21 22:46:22 UTC 2013</title>
+      <pubDate>Mon, 21 Jan 2013 22:46:22 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1358808382</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1358808382 (Mon, 21 Jan 2013 22:46:22 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1358808382#1358808382#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Sun, 20 Jan 2013 14:08:30 GMT</title>
+      <pubDate>Sun, 20 Jan 2013 14:08:30 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20130120T140830Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20130120T140830Z (Sun, 20 Jan 2013 14:08:30 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20130120T140830Z#1358690910#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Sun Jan 20 07:50:53 UTC 2013</title>
+      <pubDate>Sun, 20 Jan 2013 07:50:53 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1358668253</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1358668253 (Sun, 20 Jan 2013 07:50:53 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1358668253#1358668253#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Sun Jan 20 07:50:53 UTC 2013</title>
+      <pubDate>Sun, 20 Jan 2013 07:50:53 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1358668253</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1358668253 (Sun, 20 Jan 2013 07:50:53 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1358668253#1358668253#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Fri Jan 18 07:07:54 UTC 2013</title>
+      <pubDate>Fri, 18 Jan 2013 07:07:54 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1358492874</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1358492874 (Fri, 18 Jan 2013 07:07:54 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1358492874#1358492874#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Fri Jan 18 07:07:54 UTC 2013</title>
+      <pubDate>Fri, 18 Jan 2013 07:07:54 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1358492874</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1358492874 (Fri, 18 Jan 2013 07:07:54 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1358492874#1358492874#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Wed Jan 16 02:54:52 UTC 2013 (* Security fix *)</title>
+      <pubDate>Wed, 16 Jan 2013 02:54:52 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1358304892</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1358304892 (Wed, 16 Jan 2013 02:54:52 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1358304892#1358304892#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Wed Jan 16 02:54:52 UTC 2013 (* Security fix *)</title>
+      <pubDate>Wed, 16 Jan 2013 02:54:52 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1358304892</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1358304892 (Wed, 16 Jan 2013 02:54:52 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1358304892#1358304892#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Thu Jan 10 08:17:57 UTC 2013 (* Security fix *)</title>
+      <pubDate>Thu, 10 Jan 2013 08:17:57 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1357805877</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1357805877 (Thu, 10 Jan 2013 08:17:57 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1357805877#1357805877#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Thu Jan 10 08:17:57 UTC 2013 (* Security fix *)</title>
+      <pubDate>Thu, 10 Jan 2013 08:17:57 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1357805877</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1357805877 (Thu, 10 Jan 2013 08:17:57 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1357805877#1357805877#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Thu, 10 Jan 2013 00:02:38 GMT</title>
+      <pubDate>Thu, 10 Jan 2013 00:02:38 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20130110T000238Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20130110T000238Z (Thu, 10 Jan 2013 00:02:38 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20130110T000238Z#1357776158#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's unofficial KDE Slackware packages: Wed,  2 Jan 2013 11:44:09 GMT</title>
+      <pubDate>Wed, 02 Jan 2013 11:44:09 -0000</pubDate>
+      <author/>
+      <link>http://alien.slackbook.org/ktown/ChangeLog.txt</link>
+      <description>Alien's unofficial KDE Slackware packages: http://alien.slackbook.org/ktown/ChangeLog.txt (Wed, 02 Jan 2013 11:44:09 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/ktown/ChangeLog.txt#1357127049#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Tue, 01 Jan 2013 21:37:11 GMT</title>
+      <pubDate>Tue, 01 Jan 2013 21:37:11 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20130101T213711Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20130101T213711Z (Tue, 01 Jan 2013 21:37:11 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20130101T213711Z#1357076231#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Sun, 30 Dec 2012 03:49:53 GMT</title>
+      <pubDate>Sun, 30 Dec 2012 03:49:53 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20121230T034953Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20121230T034953Z (Sun, 30 Dec 2012 03:49:53 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20121230T034953Z#1356839393#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Tue, 25 Dec 2012 02:10:23 GMT</title>
+      <pubDate>Tue, 25 Dec 2012 02:10:23 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20121225T021023Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20121225T021023Z (Tue, 25 Dec 2012 02:10:23 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20121225T021023Z#1356401423#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Sun, 23 Dec 2012 14:23:46 GMT</title>
+      <pubDate>Sun, 23 Dec 2012 14:23:46 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20121223T142346Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20121223T142346Z (Sun, 23 Dec 2012 14:23:46 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20121223T142346Z#1356272626#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Fri Dec 21 07:01:05 UTC 2012</title>
+      <pubDate>Fri, 21 Dec 2012 07:01:05 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1356073265</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1356073265 (Fri, 21 Dec 2012 07:01:05 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1356073265#1356073265#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Fri Dec 21 07:01:05 UTC 2012</title>
+      <pubDate>Fri, 21 Dec 2012 07:01:05 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1356073265</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1356073265 (Fri, 21 Dec 2012 07:01:05 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1356073265#1356073265#slackagg</guid>
+    </item>
+    <item>
+      <title>blog.hashbangbash.com: Every Step</title>
+      <pubDate>Sat, 15 Dec 2012 13:22:33 -0000</pubDate>
+      <author>vbatts</author>
+      <link>http://blog.hashbangbash.com/2012/12/every-step/</link>
+      <description>blog.hashbangbash.com: http://blog.hashbangbash.com/2012/12/every-step/ (Sat, 15 Dec 2012 13:22:33 -0000)</description>
+      <guid isPermaLink="true">http://blog.hashbangbash.com/2012/12/every-step/#1355577753#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Wed, 12 Dec 2012 02:47:28 GMT</title>
+      <pubDate>Wed, 12 Dec 2012 02:47:28 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20121212T024728Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20121212T024728Z (Wed, 12 Dec 2012 02:47:28 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20121212T024728Z#1355280448#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Tue Dec 11 22:35:02 UTC 2012</title>
+      <pubDate>Tue, 11 Dec 2012 22:35:02 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1355265302</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1355265302 (Tue, 11 Dec 2012 22:35:02 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1355265302#1355265302#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Tue Dec 11 22:35:02 UTC 2012</title>
+      <pubDate>Tue, 11 Dec 2012 22:35:02 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1355265302</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1355265302 (Tue, 11 Dec 2012 22:35:02 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1355265302#1355265302#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Fri Dec 07 01:41:59 UTC 2012 (* Security fix *)</title>
+      <pubDate>Fri, 07 Dec 2012 01:41:59 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1354844519</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1354844519 (Fri, 07 Dec 2012 01:41:59 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1354844519#1354844519#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Fri Dec 07 01:41:59 UTC 2012 (* Security fix *)</title>
+      <pubDate>Fri, 07 Dec 2012 01:41:59 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1354844519</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1354844519 (Fri, 07 Dec 2012 01:41:59 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1354844519#1354844519#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's unofficial KDE Slackware packages: Wed,  5 Dec 2012 23:14:15 GMT</title>
+      <pubDate>Wed, 05 Dec 2012 23:14:15 -0000</pubDate>
+      <author/>
+      <link>http://alien.slackbook.org/ktown/ChangeLog.txt</link>
+      <description>Alien's unofficial KDE Slackware packages: http://alien.slackbook.org/ktown/ChangeLog.txt (Wed, 05 Dec 2012 23:14:15 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/ktown/ChangeLog.txt#1354749255#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's unofficial KDE Slackware packages: Wed,  5 Dec 2012 11:18:18 GMT</title>
+      <pubDate>Wed, 05 Dec 2012 11:18:18 -0000</pubDate>
+      <author/>
+      <link>http://alien.slackbook.org/ktown/ChangeLog.txt</link>
+      <description>Alien's unofficial KDE Slackware packages: http://alien.slackbook.org/ktown/ChangeLog.txt (Wed, 05 Dec 2012 11:18:18 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/ktown/ChangeLog.txt#1354706298#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Tue Dec 04 05:52:37 UTC 2012</title>
+      <pubDate>Tue, 04 Dec 2012 05:52:37 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1354600357</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1354600357 (Tue, 04 Dec 2012 05:52:37 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1354600357#1354600357#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Tue Dec 04 05:52:37 UTC 2012</title>
+      <pubDate>Tue, 04 Dec 2012 05:52:37 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1354600357</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1354600357 (Tue, 04 Dec 2012 05:52:37 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1354600357#1354600357#slackagg</guid>
+    </item>
+    <item>
+      <title>Robby Workman's Slackware Packages: Mon, 26 Nov 2012 03:56:47 GMT</title>
+      <pubDate>Mon, 26 Nov 2012 03:56:47 -0000</pubDate>
+      <author/>
+      <link>http://rlworkman.net/pkgs/14.0/ChangeLog.txt</link>
+      <description>Robby Workman's Slackware Packages: http://rlworkman.net/pkgs/14.0/ChangeLog.txt (Mon, 26 Nov 2012 03:56:47 -0000)</description>
+      <guid isPermaLink="true">http://rlworkman.net/pkgs/14.0/ChangeLog.txt#1353902207#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Sat, 24 Nov 2012 20:52:44 GMT</title>
+      <pubDate>Sat, 24 Nov 2012 20:52:44 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20121124T205244Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20121124T205244Z (Sat, 24 Nov 2012 20:52:44 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20121124T205244Z#1353790364#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Thu Nov 22 01:57:50 UTC 2012 (* Security fix *)</title>
+      <pubDate>Thu, 22 Nov 2012 01:57:50 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1353549470</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1353549470 (Thu, 22 Nov 2012 01:57:50 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1353549470#1353549470#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Thu Nov 22 01:57:50 UTC 2012 (* Security fix *)</title>
+      <pubDate>Thu, 22 Nov 2012 01:57:50 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1353549470</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1353549470 (Thu, 22 Nov 2012 01:57:50 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1353549470#1353549470#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Sun, 18 Nov 2012 11:36:25 GMT</title>
+      <pubDate>Sun, 18 Nov 2012 11:36:25 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20121118T113625Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20121118T113625Z (Sun, 18 Nov 2012 11:36:25 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20121118T113625Z#1353238585#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's unofficial KDE Slackware packages: Wed,  7 Nov 2012 08:23:58 GMT</title>
+      <pubDate>Wed, 07 Nov 2012 08:23:58 -0000</pubDate>
+      <author/>
+      <link>http://alien.slackbook.org/ktown/ChangeLog.txt</link>
+      <description>Alien's unofficial KDE Slackware packages: http://alien.slackbook.org/ktown/ChangeLog.txt (Wed, 07 Nov 2012 08:23:58 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/ktown/ChangeLog.txt#1352276638#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Sun, 04 Nov 2012 15:41:50 GMT</title>
+      <pubDate>Sun, 04 Nov 2012 15:41:50 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20121104T154150Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20121104T154150Z (Sun, 04 Nov 2012 15:41:50 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20121104T154150Z#1352043710#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Wed Oct 31 00:32:25 UTC 2012 (* Security fix *)</title>
+      <pubDate>Wed, 31 Oct 2012 00:32:25 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1351643545</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1351643545 (Wed, 31 Oct 2012 00:32:25 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1351643545#1351643545#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Wed Oct 31 00:32:25 UTC 2012 (* Security fix *)</title>
+      <pubDate>Wed, 31 Oct 2012 00:32:25 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1351643545</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1351643545 (Wed, 31 Oct 2012 00:32:25 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1351643545#1351643545#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Sat Oct 27 01:13:00 UTC 2012 (* Security fix *)</title>
+      <pubDate>Sat, 27 Oct 2012 01:13:00 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1351300380</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1351300380 (Sat, 27 Oct 2012 01:13:00 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1351300380#1351300380#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Sat Oct 27 01:13:00 UTC 2012 (* Security fix *)</title>
+      <pubDate>Sat, 27 Oct 2012 01:13:00 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1351300380</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1351300380 (Sat, 27 Oct 2012 01:13:00 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1351300380#1351300380#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Thu, 18 Oct 2012 21:37:57 GMT</title>
+      <pubDate>Thu, 18 Oct 2012 21:37:57 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20121018T213757Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20121018T213757Z (Thu, 18 Oct 2012 21:37:57 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20121018T213757Z#1350596277#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Mon Oct 15 01:59:59 UTC 2012 (* Security fix *)</title>
+      <pubDate>Mon, 15 Oct 2012 01:59:59 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1350266399</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1350266399 (Mon, 15 Oct 2012 01:59:59 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1350266399#1350266399#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Mon Oct 15 01:59:59 UTC 2012 (* Security fix *)</title>
+      <pubDate>Mon, 15 Oct 2012 01:59:59 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1350266399</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1350266399 (Mon, 15 Oct 2012 01:59:59 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1350266399#1350266399#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's unofficial KDE Slackware packages: Sat, 13 Oct 2012 22:35:23 GMT</title>
+      <pubDate>Sat, 13 Oct 2012 22:35:23 -0000</pubDate>
+      <author/>
+      <link>http://alien.slackbook.org/ktown/ChangeLog.txt</link>
+      <description>Alien's unofficial KDE Slackware packages: http://alien.slackbook.org/ktown/ChangeLog.txt (Sat, 13 Oct 2012 22:35:23 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/ktown/ChangeLog.txt#1350167723#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Thu Oct 11 21:25:20 UTC 2012 (* Security fix *)</title>
+      <pubDate>Thu, 11 Oct 2012 21:25:20 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1349990720</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1349990720 (Thu, 11 Oct 2012 21:25:20 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1349990720#1349990720#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Thu Oct 11 21:25:20 UTC 2012 (* Security fix *)</title>
+      <pubDate>Thu, 11 Oct 2012 21:25:20 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1349990720</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1349990720 (Thu, 11 Oct 2012 21:25:20 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1349990720#1349990720#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Thu Oct 11 01:14:57 UTC 2012 (* Security fix *)</title>
+      <pubDate>Thu, 11 Oct 2012 01:14:57 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1349918097</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1349918097 (Thu, 11 Oct 2012 01:14:57 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1349918097#1349918097#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Thu Oct 11 01:14:57 UTC 2012 (* Security fix *)</title>
+      <pubDate>Thu, 11 Oct 2012 01:14:57 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1349918097</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1349918097 (Thu, 11 Oct 2012 01:14:57 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1349918097#1349918097#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Wed Oct 10 03:06:03 UTC 2012 (* Security fix *)</title>
+      <pubDate>Wed, 10 Oct 2012 03:06:03 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1349838363</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1349838363 (Wed, 10 Oct 2012 03:06:03 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1349838363#1349838363#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Wed Oct 10 03:06:03 UTC 2012 (* Security fix *)</title>
+      <pubDate>Wed, 10 Oct 2012 03:06:03 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1349838363</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1349838363 (Wed, 10 Oct 2012 03:06:03 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1349838363#1349838363#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Sun, 07 Oct 2012 22:27:34 GMT</title>
+      <pubDate>Sun, 07 Oct 2012 22:27:34 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20121007T222734Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20121007T222734Z (Sun, 07 Oct 2012 22:27:34 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20121007T222734Z#1349648854#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Sun, 07 Oct 2012 14:21:03 GMT</title>
+      <pubDate>Sun, 07 Oct 2012 14:21:03 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20121007T142103Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20121007T142103Z (Sun, 07 Oct 2012 14:21:03 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20121007T142103Z#1349619663#slackagg</guid>
+    </item>
+    <item>
+      <title>SlackBuilds.org ChangeLog: SlackBuilds.org changes for Tue, 02 Oct 2012 18:25:39 GMT</title>
+      <pubDate>Tue, 02 Oct 2012 18:25:39 -0000</pubDate>
+      <author>SlackBuilds.org</author>
+      <link>http://slackbuilds.org/ChangeLog.txt#20121002T182539Z</link>
+      <description>SlackBuilds.org ChangeLog: http://slackbuilds.org/ChangeLog.txt#20121002T182539Z (Tue, 02 Oct 2012 18:25:39 -0000)</description>
+      <guid isPermaLink="true">http://slackbuilds.org/ChangeLog.txt#20121002T182539Z#1349202339#slackagg</guid>
+    </item>
+    <item>
+      <title>Alien's unofficial KDE Slackware packages: Tue,  2 Oct 2012 12:21:34 GMT</title>
+      <pubDate>Tue, 02 Oct 2012 12:21:34 -0000</pubDate>
+      <author/>
+      <link>http://alien.slackbook.org/ktown/ChangeLog.txt</link>
+      <description>Alien's unofficial KDE Slackware packages: http://alien.slackbook.org/ktown/ChangeLog.txt (Tue, 02 Oct 2012 12:21:34 -0000)</description>
+      <guid isPermaLink="true">http://alien.slackbook.org/ktown/ChangeLog.txt#1349180494#slackagg</guid>
+    </item>
+    <item>
+      <title>Robby Workman's Slackware Packages: Sun, 30 Sep 2012 01:13:05 GMT</title>
+      <pubDate>Sun, 30 Sep 2012 01:13:05 -0000</pubDate>
+      <author/>
+      <link>http://rlworkman.net/pkgs/14.0/ChangeLog.txt</link>
+      <description>Robby Workman's Slackware Packages: http://rlworkman.net/pkgs/14.0/ChangeLog.txt (Sun, 30 Sep 2012 01:13:05 -0000)</description>
+      <guid isPermaLink="true">http://rlworkman.net/pkgs/14.0/ChangeLog.txt#1348967585#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware ChangeLog.txt: Wed Sep 26 01:10:42 UTC 2012</title>
+      <pubDate>Wed, 26 Sep 2012 01:10:42 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1348621842</link>
+      <description>slackware ChangeLog.txt: http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1348621842 (Wed, 26 Sep 2012 01:10:42 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware-current/ChangeLog.txt#1348621842#1348621842#slackagg</guid>
+    </item>
+    <item>
+      <title>slackware64 ChangeLog.txt: Wed Sep 26 01:10:42 UTC 2012</title>
+      <pubDate>Wed, 26 Sep 2012 01:10:42 -0000</pubDate>
+      <author/>
+      <link>http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1348621842</link>
+      <description>slackware64 ChangeLog.txt: http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1348621842 (Wed, 26 Sep 2012 01:10:42 -0000)</description>
+      <guid isPermaLink="true">http://slackware.osuosl.org/slackware64-current/ChangeLog.txt#1348621842#1348621842#slackagg</guid>
+    </item>
+    <item>
+      <title>Roblog: Southeast LinuxFest 2012</title>
+      <pubDate>Mon, 05 Mar 2012 04:19:00 -0000</pubDate>
+      <author>Robby Workman</author>
+      <link>http://blog.rlworkman.net/2012/03/southeast-linuxfest-2012.html</link>
+      <description>Roblog: http://blog.rlworkman.net/2012/03/southeast-linuxfest-2012.html (Mon, 05 Mar 2012 04:19:00 -0000)</description>
+      <guid isPermaLink="true">http://blog.rlworkman.net/2012/03/southeast-linuxfest-2012.html#1330921140#slackagg</guid>
+    </item>
+    <item>
+      <title>Roblog: Suds of the South 2012</title>
+      <pubDate>Mon, 05 Mar 2012 04:12:00 -0000</pubDate>
+      <author>Robby Workman</author>
+      <link>http://blog.rlworkman.net/2012/03/suds-of-south-2012.html</link>
+      <description>Roblog: http://blog.rlworkman.net/2012/03/suds-of-south-2012.html (Mon, 05 Mar 2012 04:12:00 -0000)</description>
+      <guid isPermaLink="true">http://blog.rlworkman.net/2012/03/suds-of-south-2012.html#1330920720#slackagg</guid>
+    </item>
+    <item>
+      <title>blog.hashbangbash.com: ruby 1.9.3 is released, and slackware packages are here</title>
+      <pubDate>Thu, 03 Nov 2011 20:42:43 -0000</pubDate>
+      <author>vbatts</author>
+      <link>http://blog.hashbangbash.com/2011/11/ruby-1-9-3-is-released-and-slackware-packages-are-here/</link>
+      <description>blog.hashbangbash.com: http://blog.hashbangbash.com/2011/11/ruby-1-9-3-is-released-and-slackware-packages-are-here/ (Thu, 03 Nov 2011 20:42:43 -0000)</description>
+      <guid isPermaLink="true">http://blog.hashbangbash.com/2011/11/ruby-1-9-3-is-released-and-slackware-packages-are-here/#1320352963#slackagg</guid>
+    </item>
+    <item>
+      <title>blog.hashbangbash.com: Outage</title>
+      <pubDate>Mon, 31 Oct 2011 00:41:37 -0000</pubDate>
+      <author>vbatts</author>
+      <link>http://blog.hashbangbash.com/2011/10/outage/</link>
+      <description>blog.hashbangbash.com: http://blog.hashbangbash.com/2011/10/outage/ (Mon, 31 Oct 2011 00:41:37 -0000)</description>
+      <guid isPermaLink="true">http://blog.hashbangbash.com/2011/10/outage/#1320021697#slackagg</guid>
+    </item>
+    <item>
+      <title>blog.hashbangbash.com: Tastes in Languages: an internal dialogue</title>
+      <pubDate>Thu, 20 Oct 2011 20:34:09 -0000</pubDate>
+      <author>vbatts</author>
+      <link>http://blog.hashbangbash.com/2011/10/tastes-in-languages-an-internal-dialogue/</link>
+      <description>blog.hashbangbash.com: http://blog.hashbangbash.com/2011/10/tastes-in-languages-an-internal-dialogue/ (Thu, 20 Oct 2011 20:34:09 -0000)</description>
+      <guid isPermaLink="true">http://blog.hashbangbash.com/2011/10/tastes-in-languages-an-internal-dialogue/#1319142849#slackagg</guid>
+    </item>
+    <item>
+      <title>blog.hashbangbash.com: Hacking on KDE: part 1</title>
+      <pubDate>Thu, 20 Oct 2011 14:47:39 -0000</pubDate>
+      <author>vbatts</author>
+      <link>http://blog.hashbangbash.com/2011/10/hacking-on-kde-part-1/</link>
+      <description>blog.hashbangbash.com: http://blog.hashbangbash.com/2011/10/hacking-on-kde-part-1/ (Thu, 20 Oct 2011 14:47:39 -0000)</description>
+      <guid isPermaLink="true">http://blog.hashbangbash.com/2011/10/hacking-on-kde-part-1/#1319122059#slackagg</guid>
+    </item>
+    <item>
+      <title>blog.hashbangbash.com: Good Times</title>
+      <pubDate>Mon, 15 Aug 2011 01:53:43 -0000</pubDate>
+      <author>vbatts</author>
+      <link>http://blog.hashbangbash.com/2011/08/good-times/</link>
+      <description>blog.hashbangbash.com: http://blog.hashbangbash.com/2011/08/good-times/ (Mon, 15 Aug 2011 01:53:43 -0000)</description>
+      <guid isPermaLink="true">http://blog.hashbangbash.com/2011/08/good-times/#1313373223#slackagg</guid>
+    </item>
+    <item>
+      <title>Roblog: </title>
+      <pubDate>Sun, 26 Jun 2011 03:49:00 -0000</pubDate>
+      <author>Robby Workman</author>
+      <link>http://blog.rlworkman.net/2011/06/so-i-havent-posted-in-while-its-been.html</link>
+      <description>Roblog: http://blog.rlworkman.net/2011/06/so-i-havent-posted-in-while-its-been.html (Sun, 26 Jun 2011 03:49:00 -0000)</description>
+      <guid isPermaLink="true">http://blog.rlworkman.net/2011/06/so-i-havent-posted-in-while-its-been.html#1309060140#slackagg</guid>
+    </item>
+    <item>
+      <title>blog.hashbangbash.com: More 1337 for your Slackware-13.37 release</title>
+      <pubDate>Mon, 11 Apr 2011 19:42:17 -0000</pubDate>
+      <author>vbatts</author>
+      <link>http://blog.hashbangbash.com/2011/04/more-1337-for-your-slackware-13-37-release/</link>
+      <description>blog.hashbangbash.com: http://blog.hashbangbash.com/2011/04/more-1337-for-your-slackware-13-37-release/ (Mon, 11 Apr 2011 19:42:17 -0000)</description>
+      <guid isPermaLink="true">http://blog.hashbangbash.com/2011/04/more-1337-for-your-slackware-13-37-release/#1302550937#slackagg</guid>
+    </item>
+    <item>
+      <title>blog.hashbangbash.com: More Red-Black Tree, but a little Ruby Benchmarking</title>
+      <pubDate>Fri, 25 Feb 2011 20:56:50 -0000</pubDate>
+      <author>vbatts</author>
+      <link>http://blog.hashbangbash.com/2011/02/more-red-black-tree-but-a-little-ruby-benchmarking/</link>
+      <description>blog.hashbangbash.com: http://blog.hashbangbash.com/2011/02/more-red-black-tree-but-a-little-ruby-benchmarking/ (Fri, 25 Feb 2011 20:56:50 -0000)</description>
+      <guid isPermaLink="true">http://blog.hashbangbash.com/2011/02/more-red-black-tree-but-a-little-ruby-benchmarking/#1298667410#slackagg</guid>
+    </item>
+    <item>
+      <title>blog.hashbangbash.com: Kick off of playing with trees</title>
+      <pubDate>Mon, 14 Feb 2011 04:07:12 -0000</pubDate>
+      <author>vbatts</author>
+      <link>http://blog.hashbangbash.com/2011/02/kick-off-of-playing-with-trees/</link>
+      <description>blog.hashbangbash.com: http://blog.hashbangbash.com/2011/02/kick-off-of-playing-with-trees/ (Mon, 14 Feb 2011 04:07:12 -0000)</description>
+      <guid isPermaLink="true">http://blog.hashbangbash.com/2011/02/kick-off-of-playing-with-trees/#1297656432#slackagg</guid>
+    </item>
+    <item>
+      <title>Roblog: GuruPlug - Part 3</title>
+      <pubDate>Thu, 01 Jul 2010 09:38:00 -0000</pubDate>
+      <author>Robby Workman</author>
+      <link>http://blog.rlworkman.net/2010/07/guruplug-part-3.html</link>
+      <description>Roblog: http://blog.rlworkman.net/2010/07/guruplug-part-3.html (Thu, 01 Jul 2010 09:38:00 -0000)</description>
+      <guid isPermaLink="true">http://blog.rlworkman.net/2010/07/guruplug-part-3.html#1277977080#slackagg</guid>
+    </item>
+    <item>
+      <title>Roblog: GuruPlug - Part 2</title>
+      <pubDate>Tue, 22 Jun 2010 08:43:00 -0000</pubDate>
+      <author>Robby Workman</author>
+      <link>http://blog.rlworkman.net/2010/06/guruplug-part-2.html</link>
+      <description>Roblog: http://blog.rlworkman.net/2010/06/guruplug-part-2.html (Tue, 22 Jun 2010 08:43:00 -0000)</description>
+      <guid isPermaLink="true">http://blog.rlworkman.net/2010/06/guruplug-part-2.html#1277196180#slackagg</guid>
+    </item>
+    <item>
+      <title>Roblog: GuruPlug - Part 1</title>
+      <pubDate>Tue, 22 Jun 2010 08:19:00 -0000</pubDate>
+      <author>Robby Workman</author>
+      <link>http://blog.rlworkman.net/2010/06/guruplug-part-1.html</link>
+      <description>Roblog: http://blog.rlworkman.net/2010/06/guruplug-part-1.html (Tue, 22 Jun 2010 08:19:00 -0000)</description>
+      <guid isPermaLink="true">http://blog.rlworkman.net/2010/06/guruplug-part-1.html#1277194740#slackagg</guid>
+    </item>
+    <item>
+      <title>Roblog: NetworkManager on Slackware</title>
+      <pubDate>Thu, 10 Jun 2010 12:14:00 -0000</pubDate>
+      <author>Robby Workman</author>
+      <link>http://blog.rlworkman.net/2010/06/networkmanager-on-slackware.html</link>
+      <description>Roblog: http://blog.rlworkman.net/2010/06/networkmanager-on-slackware.html (Thu, 10 Jun 2010 12:14:00 -0000)</description>
+      <guid isPermaLink="true">http://blog.rlworkman.net/2010/06/networkmanager-on-slackware.html#1276172040#slackagg</guid>
+    </item>
+    <item>
+      <title>Roblog: SYN?</title>
+      <pubDate>Fri, 14 May 2010 05:16:00 -0000</pubDate>
+      <author>Robby Workman</author>
+      <link>http://blog.rlworkman.net/2010/05/syn.html</link>
+      <description>Roblog: http://blog.rlworkman.net/2010/05/syn.html (Fri, 14 May 2010 05:16:00 -0000)</description>
+      <guid isPermaLink="true">http://blog.rlworkman.net/2010/05/syn.html#1273814160#slackagg</guid>
+    </item>
+    <item>
+      <title>Roblog: Slackware 13.0 Released!</title>
+      <pubDate>Fri, 28 Aug 2009 05:08:00 -0000</pubDate>
+      <author>Robby Workman</author>
+      <link>http://blog.rlworkman.net/2009/08/slackware-130-released.html</link>
+      <description>Roblog: http://blog.rlworkman.net/2009/08/slackware-130-released.html (Fri, 28 Aug 2009 05:08:00 -0000)</description>
+      <guid isPermaLink="true">http://blog.rlworkman.net/2009/08/slackware-130-released.html#1251436080#slackagg</guid>
+    </item>
+    <item>
+      <title>Roblog: Slackware 01000000</title>
+      <pubDate>Wed, 20 May 2009 00:31:00 -0000</pubDate>
+      <author>Robby Workman</author>
+      <link>http://blog.rlworkman.net/2009/05/slackware-01000000.html</link>
+      <description>Roblog: http://blog.rlworkman.net/2009/05/slackware-01000000.html (Wed, 20 May 2009 00:31:00 -0000)</description>
+      <guid isPermaLink="true">http://blog.rlworkman.net/2009/05/slackware-01000000.html#1242779460#slackagg</guid>
+    </item>
+    <item>
+      <title>Roblog: NobodyToldMe!</title>
+      <pubDate>Tue, 21 Apr 2009 03:11:00 -0000</pubDate>
+      <author>Robby Workman</author>
+      <link>http://blog.rlworkman.net/2009/04/nobodytoldme.html</link>
+      <description>Roblog: http://blog.rlworkman.net/2009/04/nobodytoldme.html (Tue, 21 Apr 2009 03:11:00 -0000)</description>
+      <guid isPermaLink="true">http://blog.rlworkman.net/2009/04/nobodytoldme.html#1240283460#slackagg</guid>
+    </item>
+    <item>
+      <title>Roblog: Southeast Linux Fest</title>
+      <pubDate>Thu, 02 Apr 2009 05:48:00 -0000</pubDate>
+      <author>Robby Workman</author>
+      <link>http://blog.rlworkman.net/2009/04/southeast-linux-fest.html</link>
+      <description>Roblog: http://blog.rlworkman.net/2009/04/southeast-linux-fest.html (Thu, 02 Apr 2009 05:48:00 -0000)</description>
+      <guid isPermaLink="true">http://blog.rlworkman.net/2009/04/southeast-linux-fest.html#1238651280#slackagg</guid>
+    </item>
+    <item>
+      <title>Roblog: Xfce-4.6.0 for Slackware</title>
+      <pubDate>Mon, 02 Mar 2009 21:31:00 -0000</pubDate>
+      <author>Robby Workman</author>
+      <link>http://blog.rlworkman.net/2009/03/xfce-460-for-slackware.html</link>
+      <description>Roblog: http://blog.rlworkman.net/2009/03/xfce-460-for-slackware.html (Mon, 02 Mar 2009 21:31:00 -0000)</description>
+      <guid isPermaLink="true">http://blog.rlworkman.net/2009/03/xfce-460-for-slackware.html#1236029460#slackagg</guid>
+    </item>
+    <item>
+      <title>Roblog: University of Glasgow and Slackware</title>
+      <pubDate>Mon, 15 Dec 2008 17:49:00 -0000</pubDate>
+      <author>Robby Workman</author>
+      <link>http://blog.rlworkman.net/2008/12/university-of-glasgow-and-slackware.html</link>
+      <description>Roblog: http://blog.rlworkman.net/2008/12/university-of-glasgow-and-slackware.html (Mon, 15 Dec 2008 17:49:00 -0000)</description>
+      <guid isPermaLink="true">http://blog.rlworkman.net/2008/12/university-of-glasgow-and-slackware.html#1229363340#slackagg</guid>
+    </item>
+    <item>
+      <title>Roblog: Slackware 12.2!</title>
+      <pubDate>Wed, 10 Dec 2008 20:49:00 -0000</pubDate>
+      <author>Robby Workman</author>
+      <link>http://blog.rlworkman.net/2008/12/slackware-122.html</link>
+      <description>Roblog: http://blog.rlworkman.net/2008/12/slackware-122.html (Wed, 10 Dec 2008 20:49:00 -0000)</description>
+      <guid isPermaLink="true">http://blog.rlworkman.net/2008/12/slackware-122.html#1228942140#slackagg</guid>
+    </item>
+    <item>
+      <title>Roblog: Slackware 12.2rc1</title>
+      <pubDate>Thu, 04 Dec 2008 20:11:00 -0000</pubDate>
+      <author>Robby Workman</author>
+      <link>http://blog.rlworkman.net/2008/12/slackware-121rc1.html</link>
+      <description>Roblog: http://blog.rlworkman.net/2008/12/slackware-121rc1.html (Thu, 04 Dec 2008 20:11:00 -0000)</description>
+      <guid isPermaLink="true">http://blog.rlworkman.net/2008/12/slackware-121rc1.html#1228421460#slackagg</guid>
+    </item>
+    <item>
+      <title>Roblog: Xfce 4.6</title>
+      <pubDate>Tue, 25 Nov 2008 17:09:00 -0000</pubDate>
+      <author>Robby Workman</author>
+      <link>http://blog.rlworkman.net/2008/11/xfce-46.html</link>
+      <description>Roblog: http://blog.rlworkman.net/2008/11/xfce-46.html (Tue, 25 Nov 2008 17:09:00 -0000)</description>
+      <guid isPermaLink="true">http://blog.rlworkman.net/2008/11/xfce-46.html#1227632940#slackagg</guid>
+    </item>
+    <item>
+      <title>Roblog: Random Thoughts</title>
+      <pubDate>Mon, 24 Nov 2008 22:09:00 -0000</pubDate>
+      <author>Robby Workman</author>
+      <link>http://blog.rlworkman.net/2008/11/random-thoughts.html</link>
+      <description>Roblog: http://blog.rlworkman.net/2008/11/random-thoughts.html (Mon, 24 Nov 2008 22:09:00 -0000)</description>
+      <guid isPermaLink="true">http://blog.rlworkman.net/2008/11/random-thoughts.html#1227564540#slackagg</guid>
+    </item>
+    <item>
+      <title>Roblog: São Paulo again</title>
+      <pubDate>Sun, 24 Aug 2008 13:52:00 -0000</pubDate>
+      <author>Robby Workman</author>
+      <link>http://blog.rlworkman.net/2008/08/so-paulo-again.html</link>
+      <description>Roblog: http://blog.rlworkman.net/2008/08/so-paulo-again.html (Sun, 24 Aug 2008 13:52:00 -0000)</description>
+      <guid isPermaLink="true">http://blog.rlworkman.net/2008/08/so-paulo-again.html#1219585920#slackagg</guid>
+    </item>
+    <item>
+      <title>Roblog: São Paulo, Brasil</title>
+      <pubDate>Sat, 23 Aug 2008 14:32:00 -0000</pubDate>
+      <author>Robby Workman</author>
+      <link>http://blog.rlworkman.net/2008/08/so-paulo-brasil.html</link>
+      <description>Roblog: http://blog.rlworkman.net/2008/08/so-paulo-brasil.html (Sat, 23 Aug 2008 14:32:00 -0000)</description>
+      <guid isPermaLink="true">http://blog.rlworkman.net/2008/08/so-paulo-brasil.html#1219501920#slackagg</guid>
+    </item>
+    <item>
+      <title>Roblog: Slackware 12.1 Released!</title>
+      <pubDate>Fri, 02 May 2008 23:38:00 -0000</pubDate>
+      <author>Robby Workman</author>
+      <link>http://blog.rlworkman.net/2008/05/slackware-121-released.html</link>
+      <description>Roblog: http://blog.rlworkman.net/2008/05/slackware-121-released.html (Fri, 02 May 2008 23:38:00 -0000)</description>
+      <guid isPermaLink="true">http://blog.rlworkman.net/2008/05/slackware-121-released.html#1209771480#slackagg</guid>
+    </item>
+    <item>
+      <title>Roblog: Podcast on SlackBuilds.org and sbopkg</title>
+      <pubDate>Fri, 02 May 2008 13:09:00 -0000</pubDate>
+      <author>Robby Workman</author>
+      <link>http://blog.rlworkman.net/2008/05/podcast-on-slackbuildsorg-and-sbopkg.html</link>
+      <description>Roblog: http://blog.rlworkman.net/2008/05/podcast-on-slackbuildsorg-and-sbopkg.html (Fri, 02 May 2008 13:09:00 -0000)</description>
+      <guid isPermaLink="true">http://blog.rlworkman.net/2008/05/podcast-on-slackbuildsorg-and-sbopkg.html#1209733740#slackagg</guid>
+    </item>
+    <item>
+      <title>Roblog: kde-4.0.70</title>
+      <pubDate>Wed, 23 Apr 2008 14:52:00 -0000</pubDate>
+      <author>Robby Workman</author>
+      <link>http://blog.rlworkman.net/2008/04/kde-4070.html</link>
+      <description>Roblog: http://blog.rlworkman.net/2008/04/kde-4070.html (Wed, 23 Apr 2008 14:52:00 -0000)</description>
+      <guid isPermaLink="true">http://blog.rlworkman.net/2008/04/kde-4070.html#1208962320#slackagg</guid>
+    </item>
+    <item>
+      <title>Roblog: Slackware 12.1 rc2 released!</title>
+      <pubDate>Wed, 23 Apr 2008 14:50:00 -0000</pubDate>
+      <author>Robby Workman</author>
+      <link>http://blog.rlworkman.net/2008/04/slackware-121-rc2-released.html</link>
+      <description>Roblog: http://blog.rlworkman.net/2008/04/slackware-121-rc2-released.html (Wed, 23 Apr 2008 14:50:00 -0000)</description>
+      <guid isPermaLink="true">http://blog.rlworkman.net/2008/04/slackware-121-rc2-released.html#1208962200#slackagg</guid>
+    </item>
+    <item>
+      <title>Roblog: kde-4.0.2 packages</title>
+      <pubDate>Mon, 24 Mar 2008 15:53:00 -0000</pubDate>
+      <author>Robby Workman</author>
+      <link>http://blog.rlworkman.net/2008/03/kde-402-packages.html</link>
+      <description>Roblog: http://blog.rlworkman.net/2008/03/kde-402-packages.html (Mon, 24 Mar 2008 15:53:00 -0000)</description>
+      <guid isPermaLink="true">http://blog.rlworkman.net/2008/03/kde-402-packages.html#1206373980#slackagg</guid>
+    </item>
+  </channel>
+</rss>

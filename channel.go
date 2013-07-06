@@ -2,6 +2,9 @@ package rss
 
 import (
 	"encoding/xml"
+	"errors"
+	"strings"
+	"time"
 )
 
 type Channel struct {
@@ -20,4 +23,22 @@ type Channel struct {
 	Generator      string   `xml:"generator,omitempty"`
 	Category       []string `xml:"category,omitempty"`
 	Items          []Item   `xml:"item"`
+}
+
+var ErrorNoTime = errors.New("No Time string present to parse")
+
+/*
+Attempt to parse the PubDate Field into time.Time
+
+This expects RFC1123 or RFC1123Z.
+If the pubDate field is empty or missing, then you get: time.Now, ErrorNoTime
+*/
+func (c *Channel) PubDateTime() (t time.Time, err error) {
+	if len(c.PubDate) == 0 {
+		return time.Now(), ErrorNoTime
+	}
+	if strings.ContainsAny(c.PubDate, "+-") {
+		return time.Parse(time.RFC1123Z, c.PubDate)
+	}
+	return time.Parse(time.RFC1123, c.PubDate)
 }
