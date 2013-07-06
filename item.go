@@ -7,4 +7,5 @@ type Item struct {
 	PubDate     string   `xml:"pubDate"`
 	Category    []string `xml:"category,omitempty"`
 	Description string   `xml:"description"`
+	Link        string   `xml:"link,omitempty"`
 }
