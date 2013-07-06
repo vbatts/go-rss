@@ -1,6 +1,9 @@
 package store
 
 import (
+	"encoding/xml"
+	"fmt"
+	"github.com/vbatts/go-rss"
 	"os"
 	"testing"
 )
@@ -34,6 +37,28 @@ func TestStore(t *testing.T) {
 		}
 	}
 	if len(fs.Urls()) != 2 {
-    t.Errorf("Unexpected length of Urls %#v", fs.Urls())
+		t.Errorf("Unexpected length of Urls %#v", fs.Urls())
 	}
+}
+
+func TestStoreRss(t *testing.T) {
+	file, _ := os.Open("../ChangeLog.rss")
+	dec := xml.NewDecoder(file)
+	r := rss.Rss{}
+	err := dec.Decode(&r)
+	if err != nil {
+		t.Errorf("%s", err)
+	}
+	defer file.Close()
+
+	fs, err := Open("foo1.db")
+	if err != nil {
+		t.Error(err)
+	}
+	defer os.Remove("foo1.db")
+
+	fs.StoreRssForUrl(r, "http://localhost:8080/ChangeLog.rss")
+
+	fmt.Printf("%#v\n")
+
 }
