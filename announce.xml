@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE rss PUBLIC "-//Netscape Communications//DTD RSS 0.91//EN"
+            "http://www.rssboard.org/rss-0.91.dtd">
+
+<rss version="0.91">
+
+<channel>
+<title>announce July 2013 Archive</title>
+<link>https://admin.fedoraproject.org/mailman/listinfo/announce</link>
+<description>Announcements related to the Fedora Project</description>
+
+<item>
+<title>The Fedora Project community mourns the loss of Seth Vidal</title>
+<link>http://lists.fedoraproject.org/pipermail/announce/2013-July/003174.html</link>
+<description>Robyn Bergeron: The Fedora Project community mourns the loss of Seth Vidal: The Fedora Project has lost a valued, longtime member of its community.  Seth Vidal died last night, July 8.
+&#x26;lt;br /&#x26;gt;
+Seth was a lead developer of yum and the update repository system, and a contributor to the CentOS project as well as the original Fedora Extras system. [...]</description>
+</item>
+<item>
+<title>Fedora Security SIG Update</title>
+<link>http://lists.fedoraproject.org/pipermail/announce/2013-July/003173.html</link>
+<description>Eric H. Christensen: Fedora Security SIG Update: The Fedora Security SIG is coming back with a new mission and new momentum. Previously the Security SIG concentrated on security responses to vulnerabilities and answered questions from the Fedora community. While this service isn&#x26;amp;#39;t going away we will be adding two new functions: secure coding education and code audit services.
+&#x26;lt;br /&#x26;gt;
+Our secure coding mission is primarily educational. Writing software is really hard, writing secure software is even harder. There&#x26;amp;#39;s no way any software will ever be written without bugs, but we can try to avoid some of the most common mistakes. Our first steps are to document the common causes for security vulnerabilities in software and provide information  on preventing these vulnerabilities from happening. Red Hat has started to track a subset of security flaws using Common Weakness Enumaration (CWE) IDs, this needs to be expanded to cover Fedora security bugs.  We also have a secure coding guide, the Defensive Coding Guide[0], that is in the works, along with additional documentation.
+&#x26;lt;br /&#x26;gt;
+For code audits, we&#x26;amp;#39;re really not sure where to start. We want to involve the community in this project, but honestly, we&#x26;amp;#39;re not totally sure what that means. In the short term we expect to just be more transparent about what sort of work Red Hat is doing in this area and try to make public whatever information we can about code audits; this can be sensitive obviously. If contributors have ideas, or want to help, please join the discussion. This project is expected to evolve substantially over the next few months.
+&#x26;lt;br /&#x26;gt;
+As everyone knows, security is a big deal and keeps getting more important every day. Historically Fedora has done a fantastic job with security, one of the reasons the previous SIG never really took off is because there was no need, Fedora was mostly secure and didn&#x26;amp;#39;t need fixing. While Fedora ils still secure, there is a lot of opportunity to help. The nature of security is changing very rapidly, technologies like mobile and cloud are changing everything. Rather than sit by and let this happen, we believe Fedora should be out in front, working with the community to ensure open source remains the most secure solutions available.
+&#x26;lt;br /&#x26;gt;
+But don&#x26;amp;#39;t let what has been said so far become a limit on what can be done.  I&#x26;amp;#39;d love to start working providing OVAL data, security bulletins, consult when questions arise and more.  If you have ideas please join up and lets start working!
+&#x26;lt;br /&#x26;gt;
+You can find us on Freenode IRC in #fedora-security, on our mailing list[1], and in our GIT repository[2].
+&#x26;lt;br /&#x26;gt;
+We look forward to your help.
+&#x26;lt;br /&#x26;gt;
+[0] https://docs.fedoraproject.org/en-US/Fedora_Security_Team//html/Defensive_Coding/index.html
+[1] https://lists.fedoraproject.org/mailman/listinfo/security
+[2] https://fedorahosted.org/secure-coding/
+&#x26;lt;br /&#x26;gt;
+- -- Eric
+&#x26;lt;br /&#x26;gt;
+- --------------------------------------------------
+Eric &#x26;amp;quot;Sparks&#x26;amp;quot; Christensen
+Fedora Project - Red Hat
+&#x26;lt;br /&#x26;gt;
+sparks at redhat.com - sparks at fedoraproject.org
+097C 82C3 52DF C64A 50C2  E3A3 8076 ABDE 024B B3D1
+- --------------------------------------------------iQGcBAEBCgAGBQJR3BEmAAoJEB/kgVGp2CYvcJ8L/RE75c9Ww/B8cNe2pwTBD9yv
+6FGfK50QFMlRC6voq2Fd5RZb8Hf+PKoxw4+ewbUYdnN8t0n+DaEvPxP69hJtgJ5N
+N1736+aD6OiiArKrdfBO4A9syXfMEmOPsqmye7WuXrripJc8asxu8jrh1DgEjwXk
+rFrI2pau3upnzkwRHDTRnMPZ925g3BE7SnHa+UD2KZQ3B29Qos3FHmaX5Kn3LXf+
+3h+zNnIVkClGr1HK56QVxgsjNWApIH/HsCspxwOpr3ULKRvWD8FJjVxEyp1EDCrc
+Fw0C6Di7hbzM5VNVpg4CUpquoG9QCnbNniF+IEIzcBWHr1MEKSmq64xFhfXFS0Zx
+w0wWmDQHmwBYxp+v9FKzuGbyb5YQAkZm7z/wRu1dfL6d39LBzG5y48zIEgmIUL6t
+eZX5o+lAc/3/W9sKfBbB0dmEq9m02jTIER96aD8iXNEyU8B6Yr34fnWyTiJ6BmYA
+Z0/ZPvq+vRJGl/F+pZkhekm8yYxA+4R8AdUnDwTt1A==
+=AU1I</description>
+</item>
+<item>
+<title>Amateur (Ham) Radio license exams available at Flock 2013</title>
+<link>http://lists.fedoraproject.org/pipermail/announce/2013-July/003172.html</link>
+<description>Nick Bebout: Amateur (Ham) Radio license exams available at Flock 2013: The Fedora Amateur Radio SIG will be hosting a Ham Radio VE Session at
+Flock 2013 (at the College of Charleston) on Saturday, August 10, 2013
+from 2:00pm-4:00pm in room ECTR 115.  Please arrive promptly at 2:00pm
+if possible, we must be out of that room by 4:00pm, as another [...]</description>
+</item>
+<item>
+<title>Cooperative Bug Isolation for Fedora 19 / x86_64 and i386</title>
+<link>http://lists.fedoraproject.org/pipermail/announce/2013-July/003171.html</link>
+<description>Ben Liblit: Cooperative Bug Isolation for Fedora 19 / x86_64 and i386: The Cooperative Bug Isolation Project (CBI) is now available for Fedora 
+19 on both x86_64 (64-bit) and i386 (32-bit) platforms.  We currently 
+offer instrumented versions of Evolution, The GIMP, Gnumeric, Liferea, 
+Nautilus, Pidgin, and Rhythmbox.  Download and install
+&#x26;lt;br /&#x26;gt;
+[...] [...]</description>
+</item>
+<item>
+<title>Announcing the release of Fedora 19 for Power</title>
+<link>http://lists.fedoraproject.org/pipermail/announce/2013-July/003170.html</link>
+<description>Phil Knirsch: Announcing the release of Fedora 19 for Power: The Fedora Secondary Arch Team for Power is delighted to announce the 
+release of Fedora 19 (&#x26;amp;quot;Schr&#x26;amp;Atilde;&#x26;amp;para;dinger&#x26;amp;#39;s Cat&#x26;amp;quot;) for Power architecture. Open 
+the box and take a look for yourself!
+&#x26;lt;br /&#x26;gt;
+Fedora is a leading-edge, free and open source operating system that  [...]</description>
+</item>
+<item>
+<title>Reminder: Fedora 17 end of life on 2013-07-30</title>
+<link>http://lists.fedoraproject.org/pipermail/announce/2013-July/003169.html</link>
+<description>Dennis Gilmore: Reminder: Fedora 17 end of life on 2013-07-30: Greetings. 
+&#x26;lt;br /&#x26;gt;
+This is a reminder email about the end of life process for Fedora 17. 
+&#x26;lt;br /&#x26;gt;
+Fedora 17 will reach end of life on 2013-07-30, and no further updates
+will be pushed out after that time. Additionally, with the recent
+release of Fedora 19, no new packages will be added to the Fedora 17 [...]</description>
+</item>
+<item>
+<title>Announcing the release of Fedora 19 for ARM!</title>
+<link>http://lists.fedoraproject.org/pipermail/announce/2013-July/003168.html</link>
+<description>Dennis Gilmore: Announcing the release of Fedora 19 for ARM!: The Fedora ARM Project is delighted to announce the release of Fedora 19
+(&#x26;amp;quot;Schr&#x26;amp;Atilde;&#x26;amp;para;dinger&#x26;amp;#39;s Cat&#x26;amp;quot;). Open the box and take a look for yourself!
+&#x26;lt;br /&#x26;gt;
+Fedora is a leading-edge, free and open source operating system that
+continues to deliver innovative features to many users, with a new [...]</description>
+</item>
+<item>
+<title>Announcing the release of Fedora 19!</title>
+<link>http://lists.fedoraproject.org/pipermail/announce/2013-July/003167.html</link>
+<description>Robyn Bergeron: Announcing the release of Fedora 19!: The Fedora Project is delighted to announce the release of Fedora 19 (&#x26;amp;quot;Schr&#x26;amp;Atilde;&#x26;amp;para;dinger&#x26;amp;#39;s Cat&#x26;amp;quot;). Open the box and take a look for yourself!
+&#x26;lt;br /&#x26;gt;
+Fedora is a leading-edge, free and open source operating system that continues to deliver innovative features to many users, with a new release about every six months.
+&#x26;lt;br /&#x26;gt;
+Download it now:
+&#x26;lt;br /&#x26;gt;
+http://fedoraproject.org/get-fedora
+&#x26;lt;br /&#x26;gt;
+Detailed information about this release can be seen in the release notes:
+http://docs.fedoraproject.org/en-US/Fedora/19/html/Release_Notes/
+&#x26;lt;br /&#x26;gt;
+** What&#x26;amp;#39;s New in Fedora 19? **
+&#x26;lt;br /&#x26;gt;
+The Fedora Project takes great pride in being able to show off features for all types of use cases, including traditional desktop users, systems administration, development, the cloud, and many more. But a few new features are guaranteed to be seen by nearly anyone installing Fedora and are improvements that deserve to be called out on their own.
+&#x26;lt;br /&#x26;gt;
+A complete list with details of each new feature is available here:
+http://fedoraproject.org/wiki/Releases/19/FeatureList
+&#x26;lt;br /&#x26;gt;
+== Make new things ==
+&#x26;lt;br /&#x26;gt;
+Would you like to play? Whether you&#x26;amp;#39;re a developer, maker, or just starting to learn about open source development, we have what you need to bring your ideas to reality. Here&#x26;amp;#39;s a peek at some of our new tools:
+&#x26;lt;br /&#x26;gt;
+* Developer&#x26;amp;#39;s Assistant is a tool for new developers that helps you to get started on a code project by offering templates, samples, and toolchains for a variety of languages. And when you&#x26;amp;#39;re finished, you can publish directly to GitHub! 
+&#x26;lt;br /&#x26;gt;
+* 3D modelling and printing are supported with OpenSCAD, Skeinforge, SFACT, Printrun, RepetierHost, and other tool options. Get printing without having to download binary blobs or run Python code from git. 
+&#x26;lt;br /&#x26;gt;
+* OpenShift Origin makes it easy for you to build your own Platform-as-a-Service (PaaS) infrastructure, allowing you to enable others to easily develop and deploy software.
+&#x26;lt;br /&#x26;gt;
+* node.js is a popular Javascript-based platform for those building scalable network applications or real-time apps across distributed devices. 
+&#x26;lt;br /&#x26;gt;
+* Ruby 2.0.0 moves into Fedora but keeps source-level backwards compatibility with your Ruby 1.9.3 software. We&#x26;amp;#39;re also giving you a custom Ruby loader to use to easily switch interpreters.
+&#x26;lt;br /&#x26;gt;
+* MariaDB offers a truly open MySQL implementation and is now the default MySQL option in Fedora.
+&#x26;lt;br /&#x26;gt;
+== Deploy, Monitor, and Manage ==
+You don&#x26;amp;#39;t have to work so hard when your machines are doing it for you. Regardless of how many you have, Fedora 19 helps you boot-manage your systems and gives you the tools you need for diagnosis, monitoring, and logging.
+&#x26;lt;br /&#x26;gt;
+* systemd Resource Control is one of many systemd enhancements in this release. It lets you modify your service settings without a reboot by dynamically querying and modifying resource control parameters at runtime. 
+&#x26;lt;br /&#x26;gt;
+* Kerberos administrators no longer need their clients to sync their clocks or to have reverse DNS records carefully setup for services. Fedora 19 also includes Kerberos-enabled, LDAP replicated, two-factor authentication for FreeIPA. 
+&#x26;lt;br /&#x26;gt;
+* Checkpoint &#x26;amp;amp; Restore lets you checkpoint and restore a process. It is useful for issues like process failure or moving a process to another machine for maintenance or load balancing. 
+&#x26;lt;br /&#x26;gt;
+* OpenLMI is a common infrastructure for the management of Linux systems that makes remote management of machines much simpler. 
+&#x26;lt;br /&#x26;gt;
+== Desktop Environments and Spins ==
+&#x26;lt;br /&#x26;gt;
+GNOME 3.8 brings new applications such as clock and improvements to the desktop including privacy and sharing settings, ordered search, frequent applications overview, and additionally provides the ability to enable GNOME Classic (&#x26;amp;quot;classic mode&#x26;amp;quot;) for a user experience similar to GNOME 2 built out of a collection of GNOME Shell extensions.  Refer to https://help.gnome.org/misc/release-notes/3.8/ for more details. 
+&#x26;lt;br /&#x26;gt;
+KDE Plasma Workspaces 4.10: A modern, stable desktop environment, KDE Plasma Workspaces 4.10 includes new features for printing and screenlocking, better indexing of files, and improved accessibility features.  Refer to http://www.kde.org/announcements/4.10/ for more details. 
+&#x26;lt;br /&#x26;gt;
+MATE Desktop 1.6 introduces a large number of improvements to this traditional, GNOME 2-like desktop interface. Refer to http://mate-desktop.org/2013/04/02/mate-1-6-released/ for more details.
+&#x26;lt;br /&#x26;gt;
+== Spins ==
+Spins are alternate versions of Fedora.  In addition to various desktop environments for Fedora, spins are also available as tailored environments for various types of users via hand-picked application sets or customizations. 
+&#x26;lt;br /&#x26;gt;
+Interest-specific Spins include the Design Suite Spin, the Robotics Spin, and the Security Spin, among others. Other available desktop environments, in addition to the GNOME 3.8 desktop which is shipped in the default version of Fedora 19, as well as those highlighted above, Xfce, Sugar on a Stick, and LXDE.
+&#x26;lt;br /&#x26;gt;
+To see all of the Official Fedora 19 Release Spins, visit:
+http://spins.fedoraproject.org 
+&#x26;lt;br /&#x26;gt;
+Nightly composes of alternate Spins are available here: 
+http://dl.fedoraproject.org/pub/alt/nightly-composes
+&#x26;lt;br /&#x26;gt;
+*** Downloads, upgrades, documentation, and common bugs ***
+&#x26;lt;br /&#x26;gt;
+Start by downloading Fedora 19:
+http://get.fedoraproject.org/
+&#x26;lt;br /&#x26;gt;
+If you are upgrading from a previous release of Fedora, refer to:
+http://fedoraproject.org/wiki/Upgrading
+&#x26;lt;br /&#x26;gt;
+Fedora now includes FedUp in order to enable an easy upgrade to Fedora 19.
+&#x26;lt;br /&#x26;gt;
+*** Documentation ***
+&#x26;lt;br /&#x26;gt;
+Read the full release notes for Fedora 19, guides for several languages, and learn about known bugs and how to report new ones:
+http://docs.fedoraproject.org/
+&#x26;lt;br /&#x26;gt;
+Because of the number of changes to the installer, we particularly suggest taking a peek at the Installation Guide:
+http://docs.fedoraproject.org/en-US/Fedora/19/html/Installation_Guide/index.html
+&#x26;lt;br /&#x26;gt;
+Fedora 19 common bugs are documented at:
+http://fedoraproject.org/wiki/Common_F19_bugs
+&#x26;lt;br /&#x26;gt;
+This page includes information on several known bugs in the installer, so we recommend reading it before installing Fedora 19.
+&#x26;lt;br /&#x26;gt;
+*** Contributing ***
+&#x26;lt;br /&#x26;gt;
+We can&#x26;amp;#39;t build Fedora inside a box. We need your help! Bug reports are especially helpful--if you encounter any issues, please report them!
+&#x26;lt;br /&#x26;gt;
+Fedora is a fantastic, friendly community, and we have many ways in which you can contribute, including documentation, marketing, design, QA, and development. 
+&#x26;lt;br /&#x26;gt;
+To learn how to help us, visit:
+http://join.fedoraproject.org/
+&#x26;lt;br /&#x26;gt;
+*** Fedora 20 ***
+&#x26;lt;br /&#x26;gt;
+Fedora 20 has been in active development for several months already. We plan to release it in November 2013, though the final schedule is part of the planning process and subject to change:
+&#x26;lt;br /&#x26;gt;
+https://fedoraproject.org/wiki/Releases/20/Schedule
+&#x26;lt;br /&#x26;gt;
+*** Contact information ***
+&#x26;lt;br /&#x26;gt;
+If you are a journalist or reporter, you can find additional information here:
+&#x26;lt;br /&#x26;gt;
+https://fedoraproject.org/wiki/Press
+&#x26;lt;br /&#x26;gt;
+Enjoy!
+&#x26;lt;br /&#x26;gt;
+-Robyn Bergeron
+</description>
+</item>
+</channel>
+</rss>
